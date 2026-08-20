@@ -1,7 +1,5 @@
 # 10U Fall Ball Coach Quick Start Guide
 
-This guide is designed for coaches helping players transition from 8U to 10U softball with three 90-minute practices before the first game.
-
 ## Contents
 
 - [Most Important Rule Changes](#most-important-rule-changes)
