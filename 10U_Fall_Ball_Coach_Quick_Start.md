@@ -48,7 +48,7 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
 | 0:00-0:10 | Team introduction and five-rule overview | Pitching, leaving on release, one base per pitch, live advancement on hits, and stopping play through the circle |
-| 0:10-0:20 | Throwing warm-up | Catch first, set the feet, call the target, and make an accurate throw |
+| 0:10-0:20 | Throwing warm-up | Catch first, set the feet, call the target, and make an accurate throw | End on four-corners-drill |
 | 0:20-0:35 | Sliding fundamentals | Bent-leg slide, hands up, chin tucked, stay low, and begin early |
 | 0:35-0:55 | Leaving on release and stealing | Watch the pitcher, leave on release, run hard, and slide through the base |
 | 0:55-1:10 | Passed balls and scoring from third | Read the distance of the ball, listen to the coach, and understand when the runner is established at third |
@@ -57,6 +57,7 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 
 **Helpful videos:**
 
+- [Four Corners Drill](https://www.championshipproductions.com/news/2015/05/11/train-players-to-quickly-catch-and-throw/) - Catching, transferring, and moving the ball around the diamond
 - [USA Softball: Beginner Baserunning](https://www.mlb.com/video/beginner-baserunning-c2522406383) - Running through first, rounding the base, and introductory baserunning mechanics
 - [How to Slide in Softball and Baseball](https://www.youtube.com/watch?v=7-ZjEtdogco) - Beginner-friendly figure-four sliding progression
 - [Softball Australia: Training and Practicing Sliding](https://vimeo.com/482246156) - Additional sliding instruction and practice ideas
