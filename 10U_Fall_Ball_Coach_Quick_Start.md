@@ -4,11 +4,13 @@
 
 - [Most Important Rule Changes](#most-important-rule-changes)
 - [Priorities Before the First Game](#priorities-before-the-first-game)
-- [Practice 1: Baserunning and Live-Ball Fundamentals](#practice-1-baserunning-and-live-ball-fundamentals)
+- [Practice 1: Sliding, Stealing, and Signs](#practice-1-sliding-stealing-and-signs)
 - [Practice 2: Defensive Organization and Pitcher-Catcher Play](#practice-2-defensive-organization-and-pitcher-catcher-play)
 - [Practice 3: Situational Softball and Game Simulation](#practice-3-situational-softball-and-game-simulation)
 - [Adapted Four-Corner Drill](#adapted-four-corner-drill)
 - [Sliding Mat Progression](#sliding-mat-progression)
+- [Steal Read Drill](#steal-read-drill)
+- [Introducing Signs](#introducing-signs)
 - [In-Season Practice Progression](#in-season-practice-progression)
 - [Coach Resources](#coach-resources)
 
@@ -33,30 +35,33 @@ The familiar structure remains: a maximum of five innings, five runs per inning,
 
 With three practices, focus first on the skills most likely to prevent confusion, injuries, and unnecessary extra bases. Use the third practice to connect those skills in game situations:
 
-1. Stealing, sliding, and live-ball baserunning
-2. Pitcher and catcher fundamentals
-3. Covering bases, backing up throws, and stopping play
-4. Knowing the count, outs, and runner locations
-5. Applying the rules and responsibilities in a controlled scrimmage
+1. Sliding safely
+2. Leaving on release, stealing, and reading a ball that gets past the catcher
+3. Taking a sign from the base coach
+4. Pitcher and catcher fundamentals
+5. Covering bases, backing up throws, and stopping play
+6. Knowing the count, outs, and runner locations
+7. Applying the rules and responsibilities in a controlled scrimmage
 
 Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs, and detailed infield-fly instruction until the season is underway.
 
-## Practice 1: Baserunning and Live-Ball Fundamentals
+## Practice 1: Sliding, Stealing, and Signs
 
-**Objective:** Every player understands when she may leave, where she may advance, how to slide safely, and when the play ends.
+**Objective:** Every player can get into a safe sliding position, knows when she may leave a base, can read a ball that gets past the catcher, and can take a sign from a base coach.
 
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
-| 0:00-0:10 | Team introduction and five-rule overview | Pitching, leaving on release, one base per pitch, live advancement on hits, and stopping play through the circle |
-| 0:10-0:20 | Throwing warm-up | Catch first, set the feet, call the target, and make an accurate throw & End on four-corners-drill |
-| 0:20-0:35 | Sliding fundamentals | Bent-leg slide, hands up, chin tucked, stay low, and begin early |
-| 0:35-0:55 | Leaving on release and stealing | Watch the pitcher, leave on release, run hard, and slide through the base |
-| 0:55-1:10 | Passed balls and scoring from third | Read the distance of the ball, listen to the coach, and understand when the runner is established at third |
-| 1:10-1:25 | Controlled baserunning scrimmage | Use runners on different bases and stop to explain live-ball and one-base-per-pitch decisions |
-| 1:25-1:30 | Review | Ask players to explain when they can leave, advance, score, and stop |
+| 0:00-0:05 | Team introduction and three rules for today | Pitchers throw the whole at-bat, runners leave on release, and runners may take one base per pitch |
+| 0:05-0:15 | Throwing warm-up and adapted four-corner drill | Catch first, set the feet, call the target, and make an accurate throw |
+| 0:15-0:40 | Sliding progression | Teach the position on the ground, drill it from one knee, then move to the mat |
+| 0:40-1:00 | Steal read drill with a live pitcher | Leave on release from first; read the ball from third |
+| 1:00-1:15 | Introducing signs | Three signs, look before every pitch, and acknowledge the sign - Steal is Flat Hand on Top of Head, Hold is flat hand sweeping across belt, Take (Batter) is hands crossing onto each shoulder in an X |
+| 1:15-1:27 | Live steal reps with signs | Coach gives the sign, the runner executes, and the defense reacts |
+| 1:27-1:30 | Review | Ask players when they leave, when they read, and what each sign means |
 
 **Helpful videos:**
 
+- [Sliding progression: figure four, hands up, chin tuck](https://www.youtube.com/watch?v=8qKTv72DZWY) - The step-by-step ground-up progression used in this guide
 - [Four Corners Drill](https://www.championshipproductions.com/news/2015/05/11/train-players-to-quickly-catch-and-throw/) - Catching, transferring, and moving the ball around the diamond
 - [USA Softball: Beginner Baserunning](https://www.mlb.com/video/beginner-baserunning-c2522406383) - Running through first, rounding the base, and introductory baserunning mechanics
 - [How to Slide in Softball and Baseball](https://www.youtube.com/watch?v=7-ZjEtdogco) - Beginner-friendly figure-four sliding progression
@@ -66,8 +71,10 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 
 - When may a runner leave the base?
 - How many bases may she steal on one pitch?
-- When may a runner score from third?
-- What stops the play under the CCGSA rule?
+- If you are on third and the ball gets past the catcher, what do you do?
+- If you are on first, does it matter whether the catcher catches the ball?
+- What are the three signs, and what does each one mean?
+- Where do your hands go when you slide, and why?
 
 ## Practice 2: Defensive Organization and Pitcher-Catcher Play
 
@@ -82,6 +89,8 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 | 0:55-1:15 | Pitcher-catcher fundamentals | Pitching from 35 feet, setting a target, blocking, locating the ball, covering home, and deciding when not to throw |
 | 1:15-1:27 | Team defense with live runners | Add a runner at first or third and practice steals, passed balls, throws, backups, and returning the ball through the circle |
 | 1:27-1:30 | Review | Ask who covers, who backs up, and how the defense stops the play |
+
+Use the live-runner block to review signs. Runners still take a sign from the base coach even though the focus is defensive.
 
 **Helpful videos:**
 
@@ -98,7 +107,7 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
 | 0:00-0:10 | Warm-up and adapted four-corner drill | Accurate throws, quick transfers, communication, and one-hop throws when appropriate |
-| 0:10-0:20 | Rapid baserunning review | Leaving on release, stealing one base per pitch, sliding, passed-ball reads, and listening to coaches |
+| 0:10-0:20 | Rapid baserunning and sign review | Leaving on release, one base per pitch, sliding, passed-ball reads, and taking the sign before every pitch |
 | 0:20-0:35 | Defensive situation walkthrough | Place the entire defense and walk through balls to each position, base coverage, backups, and circle control |
 | 0:35-0:50 | Pitcher-catcher with runners | Practice runner on first, runner on third, passed balls, steals, covering home, and choosing whether to throw |
 | 0:50-1:20 | Controlled game simulation | Use live pitching when practical, start several innings with runners on base, and stop only for important corrections |
@@ -128,7 +137,7 @@ During the final scrimmage, avoid correcting every mistake immediately. Let some
 ### Four team goals for Game 1
 
 1. Know the count and number of outs.
-2. Run hard and listen to the base coaches.
+2. Check the base coach before every pitch.
 3. Back up every throw.
 4. Get the ball to the circle when there is no realistic play.
 
@@ -167,46 +176,150 @@ A controlled one-hop throw is appropriate. Teach players to deliver a low, predi
 
 ## Sliding Mat Progression
 
-Teach only the feet-first bent-leg or figure-four slide before the first game.
+Teach only the feet-first bent-leg or figure-four slide before the first game. Teach the position on the ground first, drill it for reps, then move to the mat. Plan on 25 minutes the first time through.
 
-### Technique
+### Part 1: Teach the position on the ground
 
-- One leg extends toward the base.
-- The other leg bends underneath in a figure-four position.
-- Both hands remain raised.
-- The chin stays tucked.
-- The player stays low instead of jumping into the slide.
-- The slide begins early enough to carry the player through the base.
+Line the players up in a few rows facing the coach, with enough room between them to lie back. Teach one piece at a time and hold each position while coaches walk the rows and check every player.
 
-### Teaching progression
+1. **Slide on the seat.** Have every player sit down. The slide happens on the backside, not the hip and not the knee.
+2. **Figure four.** One leg extends toward the base and the other bends underneath it. Coaches walk the rows and check each player's figure four individually before moving on.
+3. **Hands up.** Both hands stay raised. Tell the players why: hands are the most important body part in softball, and a hand on the ground during a slide is how players get hurt. Have them hold the figure four with hands up.
+4. **Chin tucked.** The chin comes down into the chest to protect the head.
 
-1. Sit on the mat in the figure-four position.
-2. Practice raising both hands and tucking the chin.
-3. Move from standing into the sliding position without running.
-4. Take two or three walking steps and slide.
-5. Jog from 10 to 15 feet away and slide.
-6. Add a base at the end of the mat.
-7. Finish with a controlled run and full slide through the base.
+### Part 2: Reps from one knee
+
+Players start on one knee and drop straight into the full position: figure four, hands up, chin tucked. Repeat 15 to 20 times until the position is automatic.
+
+### Part 3: Mat progression
+
+1. **Standing drop.** The player stands on the mat and drops directly into the sliding position. Run several rotations.
+2. **One step.** The player starts one step off the mat, pushes off with the sliding foot, and goes into the position.
+3. **Running.** A full approach into a controlled slide.
+4. Add a base at the end of the mat and finish with a slide through it.
 
 ### Simple coaching cues
 
+- Slide on your seat.
+- Make a figure four.
 - Hands up.
 - Chin tucked.
-- Make a figure four.
 - Stay low.
 - Start early.
 - Slide through the base.
+
+The first four cues come straight from the ground teaching. Add "stay low" and "start early" once players are running, because those are the two things that break down as soon as speed is involved.
 
 Do not introduce headfirst or pop-up slides during the initial lesson.
 
 **Video demonstrations:**
 
+- [Sliding progression: figure four, hands up, chin tuck](https://www.youtube.com/watch?v=8qKTv72DZWY)
 - [How to Slide in Softball and Baseball](https://www.youtube.com/watch?v=7-ZjEtdogco)
 - [Softball Australia: Training and Practicing Sliding](https://vimeo.com/482246156)
 
+## Steal Read Drill
+
+This drill introduces stealing without needing a full defense or a batter. A player pitches, a coach receives, and the coach decides whether the ball is caught or gets past. That control is what makes the drill work: the coach can script the exact read the runners need to see.
+
+### Setup
+
+- One player pitches from 35 feet.
+- A coach receives on one knee wearing a mask.
+- A second coach works with the runners at the bases.
+- Rotate the pitcher every 8 to 10 pitches so several players get reps from the distance.
+- No batter. Add one only after the reads are clean.
+
+### Round 1: Runner at first
+
+The coach randomly catches the pitch cleanly or lets it get past. The runner's job never changes. She leaves on release and goes every time. Whether the ball is caught only determines whether there would be a throw.
+
+**Cue:** From first, you do not read anything. You go on release.
+
+### Round 2: Runner at third
+
+The runner leaves on release but does not commit. She reads the ball. If it gets past the coach, she goes. If the coach catches it, she returns to the base.
+
+**Cue:** From third, you read the ball, not the pitch.
+
+This is the single most confusing situation for players moving up from 8U. Run it until the difference between Round 1 and Round 2 is obvious to them.
+
+### Round 3: Runners at first and third
+
+Work both runners on the same pitch. Once the reads are consistent, add a catcher and a fielder at second so there is a real throw to react to.
+
+### Coaching points
+
+- Watch the pitcher's hand, not the ball in flight.
+- Run hard through the base. Do not slow down to look.
+- From third, the read is how far the ball gets away, not simply whether it was dropped.
+- Listen to the base coach.
+- Finish with a slide on every steal so the sliding work carries over.
+
+## Introducing Signs
+
+### The whole system in one line
+
+Hand up high, go. Hand down low, no. Arms in an X, don't swing.
+
+Three signs, three body zones, no overlap. Say that line out loud when you teach it and again every time you review it.
+
+There is no indicator sign at this level. Nobody at 10U is stealing signs, and an indicator doubles what the girls have to remember for no benefit.
+
+### The three signs
+
+| Sign | What the coach does | What it means |
+| --- | --- | --- |
+| **Steal** | Flat hand on top of the cap. Hold two seconds. | Go on the next pitch. Leave when the ball leaves the pitcher's hand. |
+| **Hold** | Flat hand sweeps across the belt. Hold two seconds. | Stay on the base this pitch. |
+| **Take** | Both arms crossed over the chest in an X. | Batter does not swing, no matter what the pitch looks like. |
+
+The Take sign is optional at the first practice. Add it once the two running signs are solid. It becomes useful fast, because 10U pitchers walk a lot of batters.
+
+### Who gives the sign
+
+Tell the girls: look at the coach closest to you.
+
+- **Runner at first:** first base coach
+- **Batter, and runners at second or third:** third base coach
+
+Never make a runner at first look across the diamond for a sign.
+
+### The four-step routine, every pitch
+
+1. Say the player's name.
+2. Pause one beat so she can find you.
+3. Give the sign and hold it for two full seconds.
+4. She nods or taps her helmet.
+
+If she does not acknowledge, give it again. Do not assume she saw it.
+
+### Two rules that make it stick
+
+1. **Give a sign every pitch, even when nothing is on.** If you only sign when something is happening, the girls stop looking the rest of the time, and the act of signing becomes the tell.
+2. **No sign seen means hold.** Teach them to never guess.
+
+### Verbal backup is fine
+
+At 10U you are allowed to say "go" out loud, and you should during games. The sign builds the habit, the voice prevents the disaster. Use both now and drop the voice later in the season.
+
+### 15-minute teaching block
+
+**0:00-0:05 Learn the shapes.** Whole team in a line facing you. Give a shape, the team calls out the meaning together. Then reverse it: you say the meaning, they make the shape back at you. Repeat the memory line a few times.
+
+**0:05-0:10 Rapid fire.** Cycle the three signs quickly with no talking. Group response first, then call individual names: "Ava," pause, sign, she calls it out. This is where you find out who is actually looking.
+
+**0:10-0:15 On the base.** Runner at first, coach in the coach's box. Run the full four-step routine. Clap to simulate the release. She goes on the clap if the sign was steal and holds if it was not. Rotate every girl through twice.
+
+Then move straight into live steal reps so the sign, the release, and the slide all happen in one rep.
+
+### What to expect
+
+Most girls will have the three shapes down in five minutes and will forget to look for them within one inning. That is normal and not a discipline problem. The looking habit takes weeks, which is why you sign every pitch from here on.
+
 ## In-Season Practice Progression
 
-After games begin, use each practice to correct issues from the previous game and introduce one new concept.
+After games begin, use each practice to correct issues from the previous game and introduce one new concept. Reinforce signs during every warm-up rather than giving them their own block.
 
 | Week | Primary focus | Secondary focus |
 | --- | --- | --- |
@@ -225,7 +338,7 @@ After games begin, use each practice to correct issues from the previous game an
 
 ### Standard 90-minute in-season practice
 
-- **10 minutes:** Warm-up and throwing
+- **10 minutes:** Warm-up, throwing, and sign review
 - **15 minutes:** Individual fundamentals
 - **20 minutes:** Correct issues from the previous game
 - **20 minutes:** Introduce one new team concept
@@ -236,6 +349,7 @@ After games begin, use each practice to correct issues from the previous game an
 
 ### Baserunning and sliding
 
+- [Sliding progression: figure four, hands up, chin tuck](https://www.youtube.com/watch?v=8qKTv72DZWY)
 - [USA Softball: Beginner Baserunning](https://www.mlb.com/video/beginner-baserunning-c2522406383)
 - [USA Softball: Intermediate Baserunning](https://www.mlb.com/video/intermediate-baserunning-c2522407483)
 - [How to Slide in Softball and Baseball - MegRem Softball](https://www.youtube.com/watch?v=7-ZjEtdogco)
