@@ -8,6 +8,7 @@
 - [Equipment and Coaches](#equipment-and-coaches)
 - [Practice 1: Sliding, Stealing, and Signs](#practice-1-sliding-stealing-and-signs)
 - [Compressed Plan: One Practice Before Games](#compressed-plan-one-practice-before-games)
+- [Field Conditions: Sliding Policy](#field-conditions-sliding-policy)
 - [Practice 2: Defense, Sliding, and Live Stealing](#practice-2-defense-sliding-and-live-stealing)
 - [Practice 3: Situational Softball and Game Simulation](#practice-3-situational-softball-and-game-simulation)
 - [Activity Instructions](#activity-instructions)
@@ -75,7 +76,7 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 | 0:15-0:40 | [Sliding Mat Progression](#sliding-mat-progression) | Teach the position on the ground, drill from one knee, then move to the mat |
 | 0:40-1:00 | [Steal Read Drill](#steal-read-drill) | Leave on release from first, read the ball from third |
 | 1:00-1:15 | [Introducing Signs](#introducing-signs) | Three signs, look before every pitch, acknowledge the sign |
-| 1:15-1:27 | [Live Steal Reps with Signs](#live-steal-reps-with-signs) | Sign, release, and slide in the same rep |
+| 1:15-1:27 | [Live Steal Reps with Signs](#live-steal-reps-with-signs) | Sign, release, and a controlled stop in the same rep |
 | 1:27-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask when they leave, when they read, and what each sign means |
 
 ### End-of-practice questions
@@ -86,6 +87,21 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 - If you are on first, does it matter whether the catcher catches the ball?
 - What are the three signs, and what does each one mean?
 - Where do your hands go when you slide, and why?
+- On the game field, what do you do instead of sliding?
+
+## Field Conditions: Sliding Policy
+
+When the game field is hard-packed, sliding on it is not worth the injury risk. Raspberries and caught cleats on baked dirt are a different thing than sliding on a mat or on grass.
+
+**The policy:**
+
+- **Sliding is practiced on grass in the outfield, on mats, always.** Never on the infield dirt, not even one demonstration rep.
+- **On the game field, runners stop on the base under control.** See [Stopping on the Base](#stopping-on-the-base).
+- **Every game and drill in this guide enforces the stop, not the slide.** The technique rules have been changed accordingly.
+
+**Keep teaching the slide anyway.** Two reasons. Field conditions change and you will get a soft field at some point this season. More importantly, a girl racing a throw will sometimes slide on instinct no matter what you told her, and a taught slide on a hard field is far safer than a panicked one. You are not removing the skill, you are changing the default.
+
+**Say it out loud at the start of practice and again before the first game.** Do not assume they will infer it from the drills.
 
 ## Compressed Plan: One Practice Before Games
 
@@ -100,11 +116,11 @@ Use this when you have lost a practice to weather and have one session left befo
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
 | 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) with signs folded in | Give every player a sign between rounds, including Take |
-| 0:08-0:18 | [Sliding Refresher](#sliding-refresher) and [Slide Race](#slide-race) | Rebuild from one knee, then hold form at speed |
+| 0:08-0:18 | [Sliding Refresher](#sliding-refresher) and [Slide Race](#slide-race) | On the outfield grass, on mats. Rebuild from one knee, then hold form at speed |
 | 0:18-0:33 | [Where Do I Go?](#where-do-i-go) | Who fields, who covers, who backs up |
 | 0:33-0:58 | **Split: [Pitcher and Catcher Station](#pitcher-and-catcher-station) / [Fielding Station](#fielding-station)** | Two groups, two coaches, 25 minutes |
 | 0:58-1:03 | Water and reset | Bring both groups back together |
-| 1:03-1:23 | [Runners vs. Catchers](#runners-vs-catchers) | Steal on the sign, slide in, make the throw and tag |
+| 1:03-1:23 | [Runners vs. Catchers](#runners-vs-catchers) | Steal on the sign, stop on the base, make the throw and tag |
 | 1:23-1:28 | [Circle Race](#circle-race) | Stop the play by getting the ball to the circle |
 | 1:28-1:30 | [First-Game Expectations](#first-game-expectations) | Four goals, simple and positive |
 
@@ -112,7 +128,7 @@ Use this when you have lost a practice to weather and have one session left befo
 
 The defensive walkthrough comes before the split because it is the only block that needs everyone on the field at once. Run it while you still have the full group and full attention.
 
-Runners vs. Catchers is the closer because it is the densest block in the guide. One rep works stealing, sliding, sign-reading, the catcher's throw, and the middle infield tag. With one practice left, that ratio is what you want.
+Runners vs. Catchers is the closer because it is the densest block in the guide. One rep works stealing, sign-reading, stopping on the base, the catcher's throw, and the middle infield tag. With one practice left, that ratio is what you want.
 
 ### What is deliberately not here
 
@@ -137,7 +153,7 @@ Most of this practice is run as competition. Keep score out loud, rotate quickly
 | 0:20-0:32 | [Where Do I Go?](#where-do-i-go) | Who fields, who covers, and who backs up on every ball |
 | 0:32-0:47 | [Ground Ball Fundamentals](#ground-ball-fundamentals) and [Beat the Runner](#beat-the-runner) | Accurate throws, first baseman target, and what an overthrow costs |
 | 0:47-1:02 | [Pitcher and Catcher Fundamentals](#pitcher-and-catcher-fundamentals) | Pitching from 35 feet, setting a target, blocking, and covering home |
-| 1:02-1:22 | [Runners vs. Catchers](#runners-vs-catchers) | Steal on the sign, slide into the base, make the throw and tag |
+| 1:02-1:22 | [Runners vs. Catchers](#runners-vs-catchers) | Steal on the sign, stop on the base, make the throw and tag |
 | 1:22-1:27 | [Circle Race](#circle-race) | Stop the play by getting the ball to the circle |
 | 1:27-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask who covers, who backs up, and how the defense stops the play |
 
@@ -159,7 +175,7 @@ Signs run all practice, not just in the warm-up. Any time a runner is on base, s
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
 | 0:00-0:10 | [Throwing Warm-Up](#throwing-warm-up) and [Adapted Four-Corner Drill](#adapted-four-corner-drill) | Accurate throws, quick transfers, and one-hop throws when appropriate |
-| 0:10-0:20 | [Rapid Baserunning and Sign Review](#rapid-baserunning-and-sign-review) | Leaving on release, one base per pitch, sliding, and passed-ball reads |
+| 0:10-0:20 | [Rapid Baserunning and Sign Review](#rapid-baserunning-and-sign-review) | Leaving on release, one base per pitch, stopping on the base, and passed-ball reads |
 | 0:20-0:35 | [Defensive Situation Walkthrough](#defensive-situation-walkthrough) | Base coverage, backups, and circle control on every ball |
 | 0:35-0:50 | [Pitcher-Catcher with Runners](#pitcher-catcher-with-runners) | Steals, passed balls, covering home, and choosing whether to throw |
 | 0:50-1:20 | [Controlled Game Simulation](#controlled-game-simulation) | Live pitching when practical, and stop only for important corrections |
@@ -300,7 +316,7 @@ Do not introduce headfirst or pop-up slides during the initial lesson.
 
 **Time:** 10 minutes, including the Slide Race. Use this in Practices 2 and 3.
 
-Do not re-teach from scratch. Rebuild the position fast, then get to speed.
+Run this on grass in the outfield, on the mats. Do not re-teach from scratch. Rebuild the position fast, then get to speed.
 
 1. **3 minutes.** Fifteen reps from one knee. Figure four, hands up, chin tucked.
 2. **2 minutes.** Standing drop on the mat, two rotations through the line.
@@ -308,9 +324,40 @@ Do not re-teach from scratch. Rebuild the position fast, then get to speed.
 
 If form falls apart during the race, stop it and go back to ten reps from one knee. Do not let them race through bad slides.
 
+## Stopping on the Base
+
+**Time:** 5 minutes to teach, then it lives inside every baserunning game. This is what replaces the slide when the field is too hard.
+
+The risk is overrunning second or third and getting tagged off the bag. A runner who slides stays on the base automatically. A runner who does not has to control herself into it, and that is a skill.
+
+### Technique
+
+1. Run hard through about three-quarters of the distance. Do not decelerate early.
+2. Over the last two or three steps, shorten the stride and drop the hips.
+3. Stomp the near edge of the bag with the front foot.
+4. Keep the chest over the bag, not past it. Bend the knees to absorb it.
+5. Find the ball before doing anything else.
+
+### Cues
+
+- Run hard, then get short.
+- Stomp the front edge.
+- Chest over the bag.
+- Stay on it and find the ball.
+
+### The one that matters
+
+**Do not glide in.** The instinct when told not to slide is to slow down 15 feet early, which turns a safe steal into an out. The point is to run hard and then get short, not to run slower.
+
+### Note for first base
+
+None of this applies at first. Runners still run straight through the bag and turn toward foul ground. That has not changed.
+
 ## Slide Race
 
 **Time:** 5 minutes. **Setup:** Two teams, one mat per team, one runner at a time. A coach starts each runner.
+
+**Location:** run this on grass in the outfield, on the mats. Never on the infield dirt.
 
 **Play:** The runner jogs in, slides through the base on the mat, pops up, and tags the next player in line.
 
@@ -419,24 +466,24 @@ Work both runners on the same pitch. Once the reads are consistent, add a catche
 - Run hard through the base. Do not slow down to look.
 - From third, the read is how far the ball gets away, not simply whether it was dropped.
 - Listen to the base coach.
-- Finish with a slide on every steal so the sliding work carries over.
+- Finish every steal with a controlled stop on the base. See [Stopping on the Base](#stopping-on-the-base).
 
 ## Live Steal Reps with Signs
 
-**Time:** 12 minutes. This is the closer for Practice 1 and the first time the sign, the release, and the slide happen in one rep.
+**Time:** 12 minutes. This is the closer for Practice 1 and the first time the sign, the release, and the finish at the base happen in one rep.
 
 ### Setup
 
 - Runners lined up at first.
 - A coach in the first base coach's box giving signs.
 - A coach at the pitcher's spot with a ball, throwing to a second coach or a catcher.
-- A base or mat at second to slide into.
+- A base at second to stop on.
 
 ### How to run it
 
 1. The base coach says a name, pauses, and gives steal or hold. The runner acknowledges.
 2. The coach at the mound goes through a full throwing motion and releases.
-3. On steal, the runner leaves on release and slides into second. On hold, she stays.
+3. On steal, the runner leaves on release and stops on second under control. On hold, she stays.
 4. Next runner up. Keep it moving.
 
 Mix in holds often enough that going is a decision rather than a reflex. If every sign is steal, they stop reading it.
@@ -445,7 +492,8 @@ Mix in holds often enough that going is a decision rather than a reflex. If ever
 
 - Leaving on the sign instead of on the release.
 - Looking back at the coach while running.
-- Standing up at the base instead of sliding.
+- Gliding in. Slowing down early instead of running hard and getting short over the last few steps.
+- Overrunning second and coming off the bag.
 - Peeking at the coach's hand before the sign is given, then guessing.
 
 ## Rapid Baserunning and Sign Review
@@ -453,7 +501,7 @@ Mix in holds often enough that going is a decision rather than a reflex. If ever
 **Time:** 10 minutes. Practice 3. Fast, no lecture.
 
 1. **2 minutes.** Team in a line. Coach gives signs, players call out the meaning. Then call individuals.
-2. **4 minutes.** Runners go one at a time from first on a simulated release and slide into second.
+2. **4 minutes.** Runners go one at a time from first on a simulated release and stop on second under control.
 3. **4 minutes.** Runner at third reads a caught ball or a ball that gets past.
 
 Ask instead of telling. "You are on third, the catcher catches it, what do you do?" beats explaining it again. If they can answer it, they know it.
@@ -584,21 +632,21 @@ Each pitcher throws ten from 35 feet. Count strikes out loud. The catcher gives 
 - **Do not rebuild anyone's mechanics two days before a game.** Fix the one thing causing the miss and leave everything else alone. Confidence matters more than form this week.
 - **Write down the strike counts.** This block is how you set the Sunday rotation.
 
-### 0:14-0:20 Catcher blocking
+### 0:14-0:25 Catcher blocking
 
-Pitchers rest their arms. You throw or roll balls into the dirt in front of each catcher. Ten reps each.
+Pitchers rest their arms. You throw or roll balls into the dirt in front of each catcher.
 
-Drop to both knees, glove down between the legs, chin down, chest angled over the ball. Do not reach for it, get the body behind it.
+This is the highest-value catching work at 10U, and it has nothing to do with throwing anyone out. A runner established at third scores on a passed ball. Keeping the ball in front of her is how you stop runs, and it is entirely within a nine-year-old's reach.
 
-Then the separate step they always skip: **find the ball.** After the block, locate it before doing anything else. Make them say where it is out loud.
+**The position:** drop to both knees, glove down between the legs, chin down, chest angled over the ball. Do not reach for it. Get the body behind it.
 
-### 0:20-0:25 Decisions with a runner
+**Round 1, ten reps each.** Straight at her. Nothing else to think about.
 
-Borrow one runner from the other group, or run it yourself. The runner steals from first. The catcher decides whether to throw or hold.
+**Round 2, ten reps each.** One to the glove side, one to the throwing side, alternating. She has to move her whole body over, not just stab the glove sideways. The chest stays angled back toward the middle of the plate so the ball stays in front.
 
-Ask after every rep: **did you have a play?** Not whether it was right. What did she see, and what did she decide.
+**Round 3, block and recover.** After the block she finds the ball, picks it up, and walks it into the circle. Make her say where the ball is out loud before she moves.
 
-Teach hold as the default. At 10U a held ball beats a bad throw almost every time, and a throw into center field turns one base into a run.
+That last round is the one they skip on their own, and it doubles as circle control, which is one of your four Game 1 goals.
 
 ### Arm care
 
@@ -645,7 +693,7 @@ Run it again with a runner already at first, so the fielder has to choose betwee
 
 ## Runners vs. Catchers
 
-**Time:** 20 minutes. This is the anchor block of Practice 2 and the direct continuation of the [Steal Read Drill](#steal-read-drill). It works stealing, sliding, sign-reading, catcher throwing, and middle infield tags in the same reps.
+**Time:** 20 minutes. This is the anchor block and the direct continuation of the [Steal Read Drill](#steal-read-drill). It works stealing, sign-reading, stopping on the base, catcher throwing, and middle infield tags in the same reps.
 
 ### Setup
 
@@ -657,14 +705,15 @@ Run it again with a runner already at first, so the fielder has to choose betwee
 
 ### Round 1: Runner at first
 
-The coach gives steal or hold. On a steal, the runner leaves on release and must slide into second. The catcher throws, the fielder tags.
+The coach gives steal or hold. On a steal, the runner leaves on release and must stop on second under control. The catcher throws, the fielder tags. No sliding in this game.
 
 **Scoring:**
 
 - Runner safe: 1 point offense
 - Runner out: 1 point defense
 - Runner leaves early, leaves late, or misses the sign: 1 point defense regardless of the result
-- Slide without hands up and a figure four: no point even if she is safe
+- Overruns the base or comes off the bag: 1 point defense
+- Glides in, meaning she slows down early instead of running hard: no point even if she is safe
 
 ### Round 2: Runner at third
 
@@ -793,6 +842,8 @@ Close Practice 3 with these four goals and nothing else. Four is already at the 
 2. Check the base coach before every pitch.
 3. Back up every throw.
 4. Get the ball to the circle when there is no realistic play.
+
+Add a fifth reminder before Game 1 only if the field is hard: no sliding today, run hard and stop on the bag.
 
 ---
 
