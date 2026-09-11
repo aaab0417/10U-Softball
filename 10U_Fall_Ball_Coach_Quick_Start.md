@@ -8,7 +8,6 @@
 - [Equipment and Coaches](#equipment-and-coaches)
 - [Practice 1: Sliding, Stealing, and Signs](#practice-1-sliding-stealing-and-signs)
 - [Practice 2: One Practice Before Games](#compressed-plan-one-practice-before-games)
-- [Field Conditions: Sliding Policy](#field-conditions-sliding-policy)
 - [Practice 3: Defense, Sliding, and Live Stealing](#practice-2-defense-sliding-and-live-stealing)
 - [Practice 4: Situational Softball and Game Simulation](#practice-3-situational-softball-and-game-simulation)
 - [Activity Instructions](#activity-instructions)
@@ -89,21 +88,7 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 - Where do your hands go when you slide, and why?
 - On the game field, what do you do instead of sliding?
 
-## Field Conditions: Sliding Policy
-
-When the game field is hard-packed, sliding on it is not worth the injury risk. Raspberries and caught cleats on baked dirt are a different thing than sliding on a mat or on grass.
-
-**The policy:**
-
-- **Sliding is practiced on grass in the outfield, on mats, always.** Never on the infield dirt, not even one demonstration rep.
-- **On the game field, runners stop on the base under control.** See [Stopping on the Base](#stopping-on-the-base).
-- **Every game and drill in this guide enforces the stop, not the slide.** The technique rules have been changed accordingly.
-
-**Keep teaching the slide anyway.** Two reasons. Field conditions change and you will get a soft field at some point this season. More importantly, a girl racing a throw will sometimes slide on instinct no matter what you told her, and a taught slide on a hard field is far safer than a panicked one. You are not removing the skill, you are changing the default.
-
-**Say it out loud at the start of practice and again before the first game.** Do not assume they will infer it from the drills.
-
-## Compressed Plan: One Practice Before Games
+## Practice 2: One Practice Before Games
 
 Use this when you have lost a practice to weather and have one session left before the first game. It replaces Practices 2 and 3. Practices 2 and 3 below remain the full version for a normal schedule.
 
@@ -140,7 +125,7 @@ Runners vs. Catchers is the closer because it is the densest block in the guide.
 
 By the end of the split block you should know which two or three girls can throw a strike from 35 feet. Write it down before you leave the field. Under the position limit a player may pitch two innings, or three if the game reaches the fifth, so you need at least two pitchers to cover a full game and three to be comfortable.
 
-## Practice 2: Defense, Sliding, and Live Stealing
+## Practice 3: Defense, Sliding, and Live Stealing
 
 **Objective:** The team can cover the correct bases, control the ball, and handle pitcher-catcher situations, while sliding and stealing get reinforced under game speed.
 
@@ -168,7 +153,7 @@ Signs run all practice, not just in the warm-up. Any time a runner is on base, s
 - When should a catcher not throw to second?
 - What ends the play?
 
-## Practice 3: Situational Softball and Game Simulation
+## Practice 4: Situational Softball and Game Simulation
 
 **Objective:** Players connect the rules and fundamentals in realistic game situations before the first game.
 
