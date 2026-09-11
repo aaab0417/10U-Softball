@@ -92,16 +92,24 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 
 ## Practice 2: One Practice Before Games
 
+Use this when you have lost a practice to weather and have one session left before the first game. It replaces Practices 3 and 4 below, which are the full-schedule versions. Keep those for a normal preseason or for reuse in-season.
+
+**What you are giving up:** the full scrimmage and the three-out inning challenge. There is no way to fit 180 minutes of defense, pitching, and game simulation into 90. Game 1 becomes the scrimmage. Tell your parents that ahead of time and it stops being a problem.
+
+**What you are protecting:** pitchers and catchers, and knowing where to throw the ball. Those two things are the difference between a game that functions and one that does not. Everything else can be learned in games.
+
 **Objective:** Every player knows where to go on a ground ball, the pitchers have thrown from 35 feet to a live catcher, the catchers can block and know when to hold the ball, and stealing and sliding stay sharp.
+
+**Two constraints this plan respects:** no drill outside the pitching station requires a pitcher, since all of them are with you during the split and their arms are being saved for Sunday. And signs are out. Steals are called out loud.
 
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
-| 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) with signs folded in | Give every player a sign between rounds, including Take |
+| 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) | Glove side leads, step to the target, throw at the chest |
 | 0:08-0:18 | [Sliding Refresher](#sliding-refresher) and [Slide Race](#slide-race) | On the outfield grass, on mats. Rebuild from one knee, then hold form at speed |
 | 0:18-0:33 | [Where Do I Go?](#where-do-i-go) | Who fields, who covers, who backs up |
 | 0:33-0:58 | **Split: [Pitcher and Catcher Station](#pitcher-and-catcher-station) / [Fielding Station](#fielding-station)** | Two groups, two coaches, 25 minutes |
 | 0:58-1:03 | Water and reset | Bring both groups back together |
-| 1:03-1:23 | [Runners vs. Catchers](#runners-vs-catchers) | Steal on the sign, stop on the base, make the throw and tag |
+| 1:03-1:23 | [Runners vs. Catchers](#runners-vs-catchers), coach-release version | Leave on release, stop on the base, make the throw and tag |
 | 1:23-1:28 | [Circle Race](#circle-race) | Stop the play by getting the ball to the circle |
 | 1:28-1:30 | [First-Game Expectations](#first-game-expectations) | Four goals, simple and positive |
 
@@ -109,11 +117,14 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 
 [Where Do I Go?](#where-do-i-go) comes before the split because it is the only block that needs everyone on the field at once. Run it while you still have the full group and full attention.
 
-Runners vs. Catchers is the closer because it is the densest block in the guide. One rep works stealing, sign-reading, stopping on the base, the catcher's throw, and the middle infield tag. With one practice left, that ratio is what you want.
+Runners vs. Catchers is the closer because it is the densest block in the guide. One rep works stealing, stopping on the base, the catcher's throw, and the middle infield tag. With one practice left, that ratio is what you want.
+
+Run it in the [coach-release version](#practice-2-variant-coach-release-and-no-signs). Your pitchers just threw 30 to 35 pitches at the station and a game is two days out. A coach on the mound also means no wild pitches eating the clock, and you can script the passed ball in Round 2 instead of waiting for one.
 
 ### What is deliberately not here
 
-- **Hitting.** With player pitching, a large share of at-bats end in walks or strikeouts, and hitting is the skill that carried over from 8U least changed. If you have five minutes of slack, spend it on the Take sign instead.
+- **Signs.** They were taught in Practice 1 and they are not worth reps with one practice left. Call steals out loud from the coach's box on Sunday, which the rules allow and which every 10U coach does anyway. Signs come back in Practice 3 and in-season.
+- **Hitting.** With player pitching, a large share of at-bats end in walks or strikeouts, and hitting is the skill that carried over from 8U least changed.
 - **Cutoffs and relays.** Already deferred to Week 5 in-season.
 - **Bunting, first-and-third, appeals.** Not before Game 1.
 
@@ -212,7 +223,7 @@ Say each one, then have the team repeat it back. Then get moving. If you are sti
 - Throw at the chest, not at the feet and not over the head.
 - Catch with two hands.
 
-From Practice 2 on, give a sign to each player between rounds. Sign-reading gets folded into warm-up rather than taking its own block.
+In Practices 3 and 4, give a sign to each player between rounds. Practice 2 skips this. Sign-reading gets folded into warm-up rather than taking its own block.
 
 ## Adapted Four-Corner Drill
 
@@ -637,7 +648,7 @@ No pitcher throws more than about 30 to 35 pitches at this practice with a game 
 
 **Time:** 25 minutes. **Who:** the assistant coach and everyone who is not pitching or catching, usually six to eight players. **Setup:** a bucket of balls, a base for first, and a cone at home.
 
-This station is written to be handed to another adult. No prior explanation from the head coach needed.
+This station is written to be handed to another adult. No prior explanation from the head coach needed, and it needs no pitcher, since every pitcher is at the other station.
 
 ### 0:00-0:07 Ground balls
 
@@ -684,15 +695,28 @@ Run it again with a runner already at first, so the fielder has to choose betwee
 - Runner at first.
 - A coach in the first base coach's box giving signs.
 
+### Practice 2 variant: coach release and no signs
+
+Use this whenever your pitchers have already thrown, whenever no pitcher is available, or whenever you want the reps to move faster. It is the default for Practice 2.
+
+**What changes:**
+
+- **A coach takes the mound instead of a pitcher.** Full windup and a real release so the runner has something to time, throwing to the catcher in gear. Bucket of balls at your feet.
+- **No signs.** The first base coach says the runner's name and then "go" or "stay" out loud before the pitch. She still has to wait for the release, which is the part being drilled.
+- **You script the passed ball.** In Round 2, deliberately let one get past instead of waiting for a pitcher to miss.
+- **Drop the missed-sign scoring rule.** Everything else in the scoring stays.
+
+**Why it is better here, not just easier:** no wild pitches eating the clock, every rep gives the runner a clean release to read, and the catcher gets a receivable ball on nearly every throw instead of chasing. Pitcher arms stay fresh for the game.
+
 ### Round 1: Runner at first
 
-The coach gives steal or hold. On a steal, the runner leaves on release and must stop on second under control. The catcher throws, the fielder tags. No sliding in this game.
+The coach gives steal or hold, by sign or out loud depending on the version you are running. On a steal, the runner leaves on release and must stop on second under control. The catcher throws, the fielder tags. No sliding in this game.
 
 **Scoring:**
 
 - Runner safe: 1 point offense
 - Runner out: 1 point defense
-- Runner leaves early, leaves late, or misses the sign: 1 point defense regardless of the result
+- Runner leaves early or leaves late, or misses the sign when you are using signs: 1 point defense regardless of the result
 - Overruns the base or comes off the bag: 1 point defense
 - Glides in, meaning she slows down early instead of running hard: no point even if she is safe
 
