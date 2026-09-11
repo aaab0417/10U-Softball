@@ -92,12 +92,6 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 
 ## Practice 2: One Practice Before Games
 
-Use this when you have lost a practice to weather and have one session left before the first game. It replaces Practices 3 and 4 below, which are the full-schedule versions. Keep those for a normal preseason or for reuse in-season.
-
-**What you are giving up:** the full scrimmage and the three-out inning challenge. There is no way to fit 180 minutes of defense, pitching, and game simulation into 90. Game 1 becomes the scrimmage. Tell your parents that ahead of time and it stops being a problem.
-
-**What you are protecting:** pitchers and catchers, and knowing where to throw the ball. Those two things are the difference between a game that functions and one that does not. Everything else can be learned in games.
-
 **Objective:** Every player knows where to go on a ground ball, the pitchers have thrown from 35 feet to a live catcher, the catchers can block and know when to hold the ball, and stealing and sliding stay sharp.
 
 | Time | Activity | Coaching emphasis |
