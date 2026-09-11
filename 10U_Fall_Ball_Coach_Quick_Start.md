@@ -7,9 +7,9 @@
 - [Priorities Before the First Game](#priorities-before-the-first-game)
 - [Equipment and Coaches](#equipment-and-coaches)
 - [Practice 1: Sliding, Stealing, and Signs](#practice-1-sliding-stealing-and-signs)
-- [Practice 2: One Practice Before Games](#compressed-plan-one-practice-before-games)
-- [Practice 3: Defense, Sliding, and Live Stealing](#practice-2-defense-sliding-and-live-stealing)
-- [Practice 4: Situational Softball and Game Simulation](#practice-3-situational-softball-and-game-simulation)
+- [Practice 2: One Practice Before Games](#practice-2-one-practice-before-games)
+- [Practice 3: Defense, Sliding, and Live Stealing](#practice-3-defense-sliding-and-live-stealing)
+- [Practice 4: Situational Softball and Game Simulation](#practice-4-situational-softball-and-game-simulation)
 - [Activity Instructions](#activity-instructions)
 - [In-Season Practice Progression](#in-season-practice-progression)
 - [Coach Resources](#coach-resources)
@@ -40,7 +40,7 @@ The familiar structure remains: a maximum of five innings, five runs per inning,
 
 ## Priorities Before the First Game
 
-With three practices, focus first on the skills most likely to prevent confusion, injuries, and unnecessary extra bases. Use the third practice to connect those skills in game situations:
+Focus first on the skills most likely to prevent confusion, injuries, and unnecessary extra bases. Use the last practice before games to connect those skills in game situations:
 
 1. Sliding safely
 2. Leaving on release, stealing, and reading a ball that gets past the catcher
@@ -60,9 +60,11 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 
 **Practice 2:** sliding mats, catcher's gear, and bases in place.
 
-**Practice 3:** full bases, catcher's gear, and a bat.
+**Practice 3:** sliding mats, catcher's gear, and bases in place.
 
-**Coaches:** three is the right number. Two is workable but tight, and the [Pitcher and Catcher Fundamentals](#pitcher-and-catcher-fundamentals) block needs a third adult to keep the rest of the team busy while two stations run.
+**Practice 4:** full bases, catcher's gear, and a bat.
+
+**Coaches:** three is the right number. Two is workable but tight. The [Pitcher and Catcher Station](#pitcher-and-catcher-station) in Practice 2 runs with two coaches and two groups. The [Pitcher and Catcher Fundamentals](#pitcher-and-catcher-fundamentals) block in Practice 3 needs a third adult to keep the rest of the team busy while two stations run.
 
 ## Practice 1: Sliding, Stealing, and Signs
 
@@ -90,7 +92,7 @@ Delay bunting, first-and-third defensive plays, formal appeals, advanced cutoffs
 
 ## Practice 2: One Practice Before Games
 
-Use this when you have lost a practice to weather and have one session left before the first game. It replaces Practices 2 and 3. Practices 2 and 3 below remain the full version for a normal schedule.
+Use this when you have lost a practice to weather and have one session left before the first game. It replaces Practices 3 and 4 below, which are the full-schedule versions. Keep those for a normal preseason or for reuse in-season.
 
 **What you are giving up:** the full scrimmage and the three-out inning challenge. There is no way to fit 180 minutes of defense, pitching, and game simulation into 90. Game 1 becomes the scrimmage. Tell your parents that ahead of time and it stops being a problem.
 
@@ -111,7 +113,7 @@ Use this when you have lost a practice to weather and have one session left befo
 
 ### Why this order
 
-The defensive walkthrough comes before the split because it is the only block that needs everyone on the field at once. Run it while you still have the full group and full attention.
+[Where Do I Go?](#where-do-i-go) comes before the split because it is the only block that needs everyone on the field at once. Run it while you still have the full group and full attention.
 
 Runners vs. Catchers is the closer because it is the densest block in the guide. One rep works stealing, sign-reading, stopping on the base, the catcher's throw, and the middle infield tag. With one practice left, that ratio is what you want.
 
@@ -134,7 +136,7 @@ Most of this practice is run as competition. Keep score out loud, rotate quickly
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
 | 0:00-0:10 | [Throwing Warm-Up](#throwing-warm-up) and [Adapted Four-Corner Drill](#adapted-four-corner-drill) | Accurate throws, and give a sign to every player between rounds |
-| 0:10-0:20 | [Sliding Refresher](#sliding-refresher) and [Slide Race](#slide-race) | Rebuild the position from one knee, then hold form at running speed |
+| 0:10-0:20 | [Sliding Refresher](#sliding-refresher) and [Slide Race](#slide-race) | On the outfield grass, on mats. Rebuild from one knee, then hold form at running speed |
 | 0:20-0:32 | [Where Do I Go?](#where-do-i-go) | Who fields, who covers, and who backs up on every ball |
 | 0:32-0:47 | [Ground Ball Fundamentals](#ground-ball-fundamentals) and [Beat the Runner](#beat-the-runner) | Accurate throws, first baseman target, and what an overthrow costs |
 | 0:47-1:02 | [Pitcher and Catcher Fundamentals](#pitcher-and-catcher-fundamentals) | Pitching from 35 feet, setting a target, blocking, and covering home |
@@ -216,7 +218,7 @@ Say each one, then have the team repeat it back. Then get moving. If you are sti
 - Throw at the chest, not at the feet and not over the head.
 - Catch with two hands.
 
-In Practices 2 and 3, give a sign to each player between rounds. Sign-reading gets folded into warm-up rather than taking its own block.
+From Practice 2 on, give a sign to each player between rounds. Sign-reading gets folded into warm-up rather than taking its own block.
 
 ## Adapted Four-Corner Drill
 
@@ -483,7 +485,7 @@ Mix in holds often enough that going is a decision rather than a reflex. If ever
 
 ## Rapid Baserunning and Sign Review
 
-**Time:** 10 minutes. Practice 3. Fast, no lecture.
+**Time:** 10 minutes. Practice 4. Fast, no lecture.
 
 1. **2 minutes.** Team in a line. Coach gives signs, players call out the meaning. Then call individuals.
 2. **4 minutes.** Runners go one at a time from first on a simulated release and stop on second under control.
@@ -724,7 +726,7 @@ Rotate everyone through both sides. Catchers get tired fast in gear, so plan on 
 
 ## Defensive Situation Walkthrough
 
-**Time:** 15 minutes. Practice 3. This is [Where Do I Go?](#where-do-i-go) with a ball added.
+**Time:** 15 minutes. Practice 4. This is [Where Do I Go?](#where-do-i-go) with a ball added.
 
 ### Setup
 
@@ -752,7 +754,7 @@ Every rep ends with the ball in the circle. If the play ended and the ball is st
 
 ## Pitcher-Catcher with Runners
 
-**Time:** 15 minutes. Practice 3.
+**Time:** 15 minutes. Practice 4.
 
 Same shape as [Runners vs. Catchers](#runners-vs-catchers), but the focus shifts from scoring to decision-making. The pitcher and catcher are the ones being coached here.
 
@@ -772,7 +774,7 @@ Situation 2 is the one to spend time on. The pitcher covering home is a play nob
 
 ## Controlled Game Simulation
 
-**Time:** 30 minutes. Practice 3.
+**Time:** 30 minutes. Practice 4.
 
 ### Setup
 
@@ -780,7 +782,7 @@ Split the team into offense and defense. Use live pitching where practical. If p
 
 ### How to run it
 
-- Start innings with runners already on base to force the situations you want. Use the recommended situations list in Practice 3.
+- Start innings with runners already on base to force the situations you want. Use the recommended situations list in Practice 4.
 - Runners take a sign before every pitch.
 - Do not correct every mistake. Let plays finish.
 - Stop no more than three or four times in the entire block, and only for something you expect to see again in the first game.
@@ -795,7 +797,7 @@ Then run the same situation again immediately so the correction has somewhere to
 
 ## Three-Out Inning Challenge
 
-**Time:** 7 minutes. Practice 3. The closest thing to a real game they will get before Game 1.
+**Time:** 7 minutes. Practice 4. The closest thing to a real game they will get before Game 1.
 
 ### Setup
 
@@ -821,7 +823,7 @@ Finish with one thing the team did well and one thing you are working on next ti
 
 ## First-Game Expectations
 
-Close Practice 3 with these four goals and nothing else. Four is already at the edge of what they will carry into a game.
+Close your last practice before games with these four goals and nothing else. Four is already at the edge of what they will carry into a game.
 
 1. Know the count and number of outs.
 2. Check the base coach before every pitch.
@@ -894,4 +896,4 @@ When rules appear to conflict, apply them in this order:
 
 ---
 
-The goal before the first game is not complete mastery of every 10U rule. After three practices, players should understand when they may run, how to slide safely, where to throw the ball, how to stop the play, and how those responsibilities fit together during a live inning. Those fundamentals will prevent most early-season confusion.
+The goal before the first game is not complete mastery of every 10U rule. By the first game, players should understand when they may run, how to slide safely, where to throw the ball, how to stop the play, and how those responsibilities fit together during a live inning. Those fundamentals will prevent most early-season confusion.
