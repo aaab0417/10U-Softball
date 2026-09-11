@@ -702,7 +702,7 @@ Use this whenever your pitchers have already thrown, whenever no pitcher is avai
 **What changes:**
 
 - **A coach takes the mound instead of a pitcher.** Full windup and a real release so the runner has something to time, throwing to the catcher in gear. Bucket of balls at your feet.
-- **No signs.** The first base coach says the runner's name and then "go" or "stay" out loud before the pitch. She still has to wait for the release, which is the part being drilled.
+- **No signs.** The coach says the runner's name and then "go" or "stay" out loud before the pitch. She still has to wait for the release, which is the part being drilled.
 - **You script the passed ball.** In Round 2, deliberately let one get past instead of waiting for a pitcher to miss.
 - **Drop the missed-sign scoring rule.** Everything else in the scoring stays.
 
