@@ -3,14 +3,15 @@
 ## Contents
 
 - [How to Use This Guide](#how-to-use-this-guide)
+- [Where You Are in the Season](#where-you-are-in-the-season)
 - [Most Important Rule Changes](#most-important-rule-changes)
 - [Priorities Before the First Game](#priorities-before-the-first-game)
 - [Equipment and Coaches](#equipment-and-coaches)
-- [Practice 1: Sliding, Stealing, and Signs](#practice-1-sliding-stealing-and-signs)
-- [Practice 2: One Practice Before Games](#practice-2-one-practice-before-games)
-- [Practice 3: Defense, Sliding, and Live Stealing](#practice-3-defense-sliding-and-live-stealing)
-- [Practice 4: Situational Softball and Game Simulation](#practice-4-situational-softball-and-game-simulation)
-- [In-Season Practice: Covering Home, Signs, and the Box](#in-season-practice-covering-home-signs-and-the-box)
+- [Practice 1: Sliding, Stealing, and Signs](#practice-1-sliding-stealing-and-signs) — done
+- [Practice 2: One Practice Before Games](#practice-2-one-practice-before-games) — done
+- [Practice 3: Defense, Sliding, and Live Stealing](#practice-3-defense-sliding-and-live-stealing) — not used, reference only
+- **[Practice 4: Covering Home, Signs, and the Box](#practice-4-covering-home-signs-and-the-box) — current**
+- [Adding the Next Practice](#adding-the-next-practice)
 - [Activity Instructions](#activity-instructions)
 - [In-Season Practice Progression](#in-season-practice-progression)
 - [Coach Resources](#coach-resources)
@@ -21,6 +22,24 @@
 Each practice is a table showing the plan and the clock. Every activity name in those tables links to full instructions in [Activity Instructions](#activity-instructions), where you will find the setup, how to run it, what to say, and what usually goes wrong.
 
 You should be able to hand this to another parent who has never coached and have them run a block from it.
+
+The practices are not all in sequence. Check [Where You Are in the Season](#where-you-are-in-the-season) before running one.
+
+## Where You Are in the Season
+
+Games have started. The rainout knocked out a preseason practice, so the path through this guide is not a straight 1-2-3-4.
+
+| Section | Status |
+| --- | --- |
+| [Practice 1](#practice-1-sliding-stealing-and-signs) | Done. Sliding, stealing, signs |
+| [Practice 2](#practice-2-one-practice-before-games) | Done. The compressed plan run after the rainout |
+| [Practice 3](#practice-3-defense-sliding-and-live-stealing) | **Never used.** The full-schedule preseason version Practice 2 replaced |
+| [Practice 4](#practice-4-covering-home-signs-and-the-box) | **This is the one you are running now.** First in-season practice |
+| Practice 5 and on | Added each week from what you see in games. See [Adding the Next Practice](#adding-the-next-practice) |
+
+Practice 3 says "before the first game" because it is a preseason plan this season skipped. Its individual drills are still good and several get reused in-season, but do not run it as a practice plan now.
+
+From Practice 4 on, every practice is built from the previous weekend's games rather than from a preseason script.
 
 ## Most Important Rule Changes
 
@@ -135,6 +154,8 @@ By the end of the split block you should know which two or three girls can throw
 
 ## Practice 3: Defense, Sliding, and Live Stealing
 
+> **Not used this season.** This is the full-schedule preseason version that [Practice 2](#practice-2-one-practice-before-games) replaced after the rainout. Kept for next season. For the practice you are running now, go to [Practice 4](#practice-4-covering-home-signs-and-the-box).
+
 **Objective:** The team can cover the correct bases, control the ball, and handle pitcher-catcher situations, while sliding and stealing get reinforced under game speed.
 
 Most of this practice is run as competition. Keep score out loud, rotate quickly, and let the scoreboard do the coaching where you can.
@@ -161,35 +182,9 @@ Signs run all practice, not just in the warm-up. Any time a runner is on base, s
 - When should a catcher not throw to second?
 - What ends the play?
 
-## Practice 4: Situational Softball and Game Simulation
+## Practice 4: Covering Home, Signs, and the Box
 
-**Objective:** Players connect the rules and fundamentals in realistic game situations before the first game.
-
-| Time | Activity | Coaching emphasis |
-| --- | --- | --- |
-| 0:00-0:10 | [Throwing Warm-Up](#throwing-warm-up) and [Adapted Four-Corner Drill](#adapted-four-corner-drill) | Accurate throws, quick transfers, and one-hop throws when appropriate |
-| 0:10-0:20 | [Rapid Baserunning and Sign Review](#rapid-baserunning-and-sign-review) | Leaving on release, one base per pitch, stopping on the base, and passed-ball reads |
-| 0:20-0:35 | [Three Jobs](#three-jobs) | Every player has a job every play: ball, bag, or back |
-| 0:35-0:50 | [Pitcher-Catcher with Runners](#pitcher-catcher-with-runners) | Steals, passed balls, covering home, and choosing whether to throw |
-| 0:50-1:20 | [Controlled Game Simulation](#controlled-game-simulation) | Live pitching when practical, and stop only for important corrections |
-| 1:20-1:27 | [Three-Out Inning Challenge](#three-out-inning-challenge) | Track the count, outs, and runners with no coaching |
-| 1:27-1:30 | [First-Game Expectations](#first-game-expectations) | Four team goals, simple and positive |
-
-### Recommended game-simulation situations
-
-- Bases empty with no outs
-- Runner on first attempting to steal second
-- Runner on second attempting to steal third
-- Runner established at third reading a wild pitch or passed ball
-- Runners on first and third with the runner from first stealing
-- Ground ball with a force play available
-- Ball hit to the outfield with runners advancing
-- Overthrow at first with the defense recovering and stopping play
-- Two outs with a runner on base
-
-## In-Season Practice: Covering Home, Signs, and the Box
-
-Built for 12 players, no outfield, after the first couple of games. A 30-minute pitcher and catcher split, then 34 minutes of scrimmage.
+**First in-season practice.** Built for 12 players, no outfield, after the first couple of games. A 30-minute pitcher and catcher split, then 31 minutes of scrimmage.
 
 **The three fixes:**
 
@@ -207,15 +202,15 @@ Plus one thing to add rather than fix: [the prep step](#the-prep-step) on every 
 | 0:08-0:14 | [The Prep Step](#the-prep-step) | Land with the pitch, on the balls of the feet |
 | 0:14-0:19 | [Batter's Box Routine](#batters-box-routine) | Step out with the back foot, find third, step back in |
 | 0:19-0:49 | **Split: [In-Season Pitcher and Catcher Station](#in-season-pitcher-and-catcher-station) / [Fielding Station](#fielding-station)** | 30 minutes, two groups, two coaches |
-| 0:49-0:52 | Water and split into two sides | Each side needs a pitcher and a catcher |
-| 0:52-1:26 | [Habit Scrimmage](#habit-scrimmage) | Four rules do the coaching, you stay quiet |
+| 0:49-0:55 | Water, then [Steal the Bacon](#steal-the-bacon) | Regroup the two stations and touch every base |
+| 0:55-1:26 | [Habit Scrimmage](#habit-scrimmage) | Four rules do the coaching, you stay quiet |
 | 1:26-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask what the three beats are and when the pitcher breaks |
 
 ### The cost of the 30-minute split
 
-Scrimmage drops from 49 minutes to 34. That is still the largest block in the practice but it is no longer most of it. Covering home moved into the station, where it belongs, since the only players who need it are already there and the rest of the team was standing around watching it.
+Scrimmage drops from 49 minutes to 31. That is still the largest block in the practice but it is no longer most of it. Covering home moved into the station, where it belongs, since the only players who need it are already there and the rest of the team was standing around watching it.
 
-Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live cover-home reps for the last 34 minutes, so the play gets taught at the station and tested in the scrimmage. That is a better split than the old version, which taught it in front of nine girls who had no part in it.
+Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live cover-home reps for the last 31 minutes, so the play gets taught at the station and tested in the scrimmage. That is a better split than the old version, which taught it in front of nine girls who had no part in it.
 
 ### Splitting the groups
 
@@ -230,6 +225,36 @@ Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live 
 - Where do you stand when you cover home, and what do you do before you tag?
 - You are on third and the ball gets past the catcher. Who are you looking at?
 - Why does stepping out of the box help your teammate on third?
+
+## Adding the Next Practice
+
+From here on, each practice is built from the previous weekend's games. The shape stays the same so only the content changes week to week.
+
+### What to bring me
+
+1. **Two or three things that went wrong**, described as what you saw rather than what it is called. "Nobody covered second on a steal" is more useful than "coverage issues."
+2. **Anything new you want to add**, like the prep step in Practice 4.
+3. **Headcount, coaches, and field**, if any of them changed.
+
+### The shape every in-season practice follows
+
+| Block | Time | Purpose |
+| --- | --- | --- |
+| Warm-up into a throwing game | 8-10 min | Arms loose, assistant runs it |
+| Teach the new habit | 5-8 min | One thing, taught dry, no ball if possible |
+| Split into two stations | 25-30 min | Pitchers and catchers with you, everyone else with the assistant |
+| Scrimmage with rules | 30-40 min | The rules enforce the week's fixes so you stay quiet |
+| Review | 3-5 min | Ask, do not tell |
+
+### Two rules that keep it working
+
+**Fixes get folded into the scrimmage as rules, not coached from the sideline.** Look at the four rules in the [Habit Scrimmage](#habit-scrimmage). Each one makes a fix mandatory instead of optional, which is why you can stand there and say almost nothing.
+
+**One new thing per practice.** Everything else is reinforcement of something already taught. A practice that introduces three new concepts teaches none of them.
+
+### Where the drills live
+
+Do not rewrite drills that already exist. [Activity Instructions](#activity-instructions) is the library, and most weeks a new practice is a new arrangement of blocks already in there plus one new one.
 
 ---
 
@@ -546,7 +571,7 @@ Mix in holds often enough that going is a decision rather than a reflex. If ever
 
 ## Rapid Baserunning and Sign Review
 
-**Time:** 10 minutes. Practice 4. Fast, no lecture.
+**Time:** 10 minutes. Fast, no lecture.
 
 1. **2 minutes.** Team in a line. Coach gives signs, players call out the meaning. Then call individuals.
 2. **4 minutes.** Runners go one at a time from first on a simulated release and stop on second under control.
@@ -744,7 +769,7 @@ Stop any girl who is laboring and move her to the covering-home work early. With
 
 ## Habit Scrimmage
 
-**Time:** 34 minutes, run in three segments. Six a side, no outfield.
+**Time:** 31 minutes, run in three segments. Six a side, no outfield.
 
 The point is not to scrimmage and then correct. The rules below make the habits mandatory, so the scrimmage does the coaching and you stay mostly quiet.
 
@@ -759,13 +784,13 @@ Announce all four before the first pitch and then enforce them without discussio
 
 Rule 4 is the one that keeps the defense awake through a long inning, so call the streak number out loud between pitches. They will start counting for you.
 
-### Segment 1, 12 minutes: runner at third
+### Segment 1, 11 minutes: runner at third
 
 Every batter comes up with a runner already at third. Nothing else changes.
 
 This is half the practice in one setup. It forces the passed-ball play, the send decision, and the box routine on nearly every pitch, and it gets your pitchers ten times the cover-home reps they would see in a real inning.
 
-### Segment 2, 11 minutes: runner at second
+### Segment 2, 10 minutes: runner at second
 
 Every batter comes up with a runner already at second, who is trying to steal third.
 
@@ -773,7 +798,7 @@ Same trick as Segment 1, pointed at a different play. It forces the [catcher thr
 
 Scoring for this segment: a point for the defense on an out, a point for the offense on a safe steal, and a point for the offense if nobody backed up the throw, whatever else happened.
 
-### Segment 3, 11 minutes: keep score
+### Segment 3, 10 minutes: keep score
 
 Let them play. Score it, minimal stopping, no coaching except the three rules. If a habit falls apart here, that is your next practice, not a reason to stop this one.
 
@@ -1067,6 +1092,49 @@ A high throw to third goes into left field and the runner scores instead of stan
 
 Same rule as always. If the runner already has the bag, or the catcher cannot set her feet, she holds it and gets it to the circle. A held ball costs a base. A throw into left field costs a run.
 
+## Steal the Bacon
+
+**Time:** 5 to 6 minutes. The classic playground game with a base touch bolted on.
+
+Best used as the reset between the station split and the scrimmage. The two groups have been apart for half an hour and come back scattered, and a race pulls them into one team faster than a huddle does.
+
+### Setup
+
+- One line at third, one line at home.
+- A tee with a ball on it halfway between them, about 30 feet from each.
+- One girl from each line up at a time.
+
+### How it runs
+
+On "go," each girl sprints to the **opposite** base, touches it, turns, and comes back to the tee. First one to grab the ball wins.
+
+The girl starting at third runs to home, touches it, turns, and races back to the tee. The girl starting at home does the same toward third. About 90 feet of sprinting each, and they cross paths twice.
+
+### Two rules that make it worth the clock
+
+1. **Touch the base or you lose.** Not near it, on it. Missing bases is a real thing that happens in games and this is the cheapest place to fix it.
+2. **Everyone stays to her right.** Out and back. It is the hallway rule, and it means they pass shoulder to shoulder instead of head-on, and they arrive at the tee from opposite sides instead of the same one.
+
+Announce both before the first race, because you will not be able to add them later once they are running.
+
+### Safety
+
+Two girls at full speed converging on one object is the one thing to watch here. The stay-right rule handles most of it. Add one more:
+
+**Grab it, do not dive for it.** Same reason you are not letting them slide on this field. If diving starts, switch the tee for a cone or set the ball on the ground and the temptation mostly goes away.
+
+### Scoring
+
+Keep it by team, not by girl. Whichever line wins more races takes the round. First line to five.
+
+**Pair them by speed.** If you send them down the line in order, the same three girls win every time and everyone else stops trying. Matching similar runners makes nearly every race close, which is the entire point.
+
+### Variations
+
+- **Start on a release.** Instead of yelling "go," go through a pitching motion and start them on the release. Now it is a steal jump too.
+- **Start facing backward.** They turn on the go call. Chaos, and they love it.
+- **Winner picks the next pair.**
+
 ## Circle Race
 
 **Time:** 5 minutes.
@@ -1137,7 +1205,7 @@ Split into two groups and run both at once. Neither group will have a full defen
 
 ## Pitcher-Catcher with Runners
 
-**Time:** 15 minutes. Practice 4.
+**Time:** 15 minutes.
 
 Same shape as [Runners vs. Catchers](#runners-vs-catchers), but the focus shifts from scoring to decision-making. The pitcher and catcher are the ones being coached here.
 
@@ -1157,7 +1225,7 @@ Situation 2 is the one to spend time on. The pitcher covering home is a play nob
 
 ## Controlled Game Simulation
 
-**Time:** 30 minutes. Practice 4.
+**Time:** 30 minutes.
 
 ### Setup
 
@@ -1165,10 +1233,22 @@ Split the team into offense and defense. Use live pitching where practical. If p
 
 ### How to run it
 
-- Start innings with runners already on base to force the situations you want. Use the recommended situations list in Practice 4.
+- Start innings with runners already on base to force the situations you want. Use the list below.
 - Runners take a sign before every pitch.
 - Do not correct every mistake. Let plays finish.
 - Stop no more than three or four times in the entire block, and only for something you expect to see again in the first game.
+
+### Situations worth forcing
+
+- Bases empty with no outs
+- Runner on first attempting to steal second
+- Runner on second attempting to steal third
+- Runner established at third reading a wild pitch or passed ball
+- Runners on first and third with the runner from first stealing
+- Ground ball with a force play available
+- Ball hit to the outfield with runners advancing
+- Overthrow at first with the defense recovering and stopping play
+- Two outs with a runner on base
 
 ### After a stopped play, ask three questions
 
@@ -1180,7 +1260,7 @@ Then run the same situation again immediately so the correction has somewhere to
 
 ## Three-Out Inning Challenge
 
-**Time:** 7 minutes. Practice 4. The closest thing to a real game they will get before Game 1.
+**Time:** 7 minutes. The closest thing to a real game they will get without playing one.
 
 ### Setup
 
