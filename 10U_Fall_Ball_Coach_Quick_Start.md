@@ -189,7 +189,7 @@ Signs run all practice, not just in the warm-up. Any time a runner is on base, s
 
 ## In-Season Practice: Covering Home, Signs, and the Box
 
-Built for 12 players, no outfield, after the first couple of games. Scrimmage is 49 of the 90 minutes.
+Built for 12 players, no outfield, after the first couple of games. A 30-minute pitcher and catcher split, then 38 minutes of scrimmage.
 
 **The three fixes:**
 
@@ -202,15 +202,23 @@ Built for 12 players, no outfield, after the first couple of games. Scrimmage is
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
 | 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) | Glove side leads, step to the target, throw at the chest |
-| 0:08-0:16 | [Batter's Box Routine](#batters-box-routine) | Step out with the back foot, find third, step back in |
-| 0:16-0:31 | [Pitcher Covers Home](#pitcher-covers-home) | Break on the passed ball, catch first, then tag |
-| 0:31-0:35 | Water and split into two sides | Each side needs a pitcher and a catcher |
-| 0:35-1:24 | [Habit Scrimmage](#habit-scrimmage) | Three rules do the coaching, you stay quiet |
-| 1:24-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask what the three beats are and when the pitcher breaks |
+| 0:08-0:14 | [Batter's Box Routine](#batters-box-routine) | Step out with the back foot, find third, step back in |
+| 0:14-0:44 | **Split: [In-Season Pitcher and Catcher Station](#in-season-pitcher-and-catcher-station) / [Fielding Station](#fielding-station)** | 30 minutes, two groups, two coaches |
+| 0:44-0:47 | Water and split into two sides | Each side needs a pitcher and a catcher |
+| 0:47-1:25 | [Habit Scrimmage](#habit-scrimmage) | Three rules do the coaching, you stay quiet |
+| 1:25-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask what the three beats are and when the pitcher breaks |
 
-### Splitting the sides
+### The cost of the 30-minute split
 
-Six a side covers P, C, 1B, 2B, SS, and 3B with no outfield, which is what a 10U ball in play actually needs. You have three pitchers and three catchers, but one girl is in both pools, so assign her to one role for the day and build the two sides around the remaining pairs. Sort that before practice, not on the field.
+Scrimmage drops from 49 minutes to 38. That is still the largest block in the practice but it is no longer most of it. Covering home moved into the station, where it belongs, since the only players who need it are already there and the rest of the team was standing around watching it.
+
+Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live cover-home reps for the last 38 minutes, so the play gets taught at the station and tested in the scrimmage. That is a better split than the old version, which taught it in front of nine girls who had no part in it.
+
+### Splitting the groups
+
+**Station group:** three pitchers and three catchers, but one girl is in both pools, so it is five bodies. Assign her to one role for the day before you get to the field. **Fielding group:** the other seven with your assistant.
+
+**Scrimmage sides:** six a side covers P, C, 1B, 2B, SS, and 3B with no outfield, which is what a 10U ball in play actually needs. Each side needs one pitcher and one catcher, which your pools support.
 
 ### End-of-practice questions
 
@@ -534,7 +542,7 @@ Ask instead of telling. "You are on third, the catcher catches it, what do you d
 
 ## Batter's Box Routine
 
-**Time:** 8 minutes to teach, then it is enforced in every scrimmage from now on.
+**Time:** 6 minutes to teach, then it is enforced in every scrimmage from now on.
 
 This one routine fixes two problems at once: batters not looking for signs, and batters staying planted in the box so there is never a window to send a runner home.
 
@@ -552,9 +560,11 @@ Framed as compliance, they forget it by the second inning. Framed as helping a t
 
 ### How to run it
 
-**0:00-0:04 Together.** Whole team lined up at a drawn box, or two lines with two coaches. Clap to signal the pitch is over. Everyone runs the three beats as a group. Twenty reps.
+**0:00-0:03 Together.** Whole team lined up at a drawn box, or two lines with two coaches. Clap to signal the pitch is over. Everyone runs the three beats as a group. Twenty reps.
 
-**0:04-0:08 One at a time.** Give a real sign on each rep and have the player call out what it was before she steps back in. This is where you find out who is actually looking versus going through the motions.
+**0:03-0:06 One at a time.** Give a real sign on each rep and have the player call out what it was before she steps back in. This is where you find out who is actually looking versus going through the motions.
+
+Do not spend longer than six minutes on this. It is a habit, not a skill, and it gets built by the automatic strike in the scrimmage rather than by reps here.
 
 ### What to watch for
 
@@ -611,9 +621,51 @@ Full sequence with a tag, but everyone at half speed so the mechanics hold.
 
 Every pitcher, and every catcher on the other side of it. One of your girls is in both pools, so give her reps at both ends or she will only ever have practiced half the play.
 
+## In-Season Pitcher and Catcher Station
+
+**Time:** 30 minutes. **Who:** the head coach, all pitchers, and all catchers, usually five or six bodies once you account for overlap. **Setup:** a pitching lane off to the side with a plate, a backstop or fence, and a bucket of balls. Catchers in full gear.
+
+Twenty of the thirty minutes are pitching. Pitchers throwing to live catchers means both groups work the entire time, so the catchers are not waiting around for their turn.
+
+### 0:00-0:05 Warm the arms into the distance
+
+Start at 20 feet, ten throws. Move to 28 feet, ten throws. Move to 35. Catchers receive in a normal stance with a chest-high target.
+
+### 0:05-0:11 Strike zone game
+
+Sets of ten from 35 feet, rotating pitchers so each one rests while the others throw. The catcher calls strike or ball out loud after each pitch. Count the sets and write down the totals.
+
+Rotating in sets is the arm care. Three pitchers cycling through sets of ten lands each girl around 30 to 40 pitches across the block, which is right for a midweek practice.
+
+### 0:11-0:16 Target work, glove low
+
+The catcher sets the glove low and inside, then low and outside. The pitcher tries to hit the spot.
+
+**Low is the entire lesson at this level.** A high pitch either gets hit hard or sails to the backstop, and the backstop version is the passed ball you are trying to eliminate. Do not bother with high targets.
+
+This doubles as catcher work. Receiving low pitches is the exact skill that keeps balls in front of her in a game.
+
+### 0:16-0:20 A batter in the box
+
+Borrow a girl from the fielding group, or stand in yourself. She does not swing. She just stands there.
+
+Pitchers at this age throw fine to an empty plate and come apart the moment there is a body in the box. Four minutes here is worth more than four more minutes of bullpen, because it is the only part of this block that resembles a game.
+
+### 0:20-0:30 Covering home
+
+Run the four stages in [Pitcher Covers Home](#pitcher-covers-home), compressed: three minutes on the break with no ball, three minutes adding the catcher's retrieve and throw, four minutes with a runner at half and then full speed.
+
+**You do not need to borrow a runner.** Only one pitcher and one catcher work at a time, so the girls waiting their turn are your runners. That also gives your catchers a feel for what the runner sees.
+
+**One girl is in both pools.** Give her reps at both ends of this play or she will only ever have practiced half of it.
+
+### Arm care
+
+Stop any girl who is laboring and move her to the covering-home work early. With a game on the weekend, nobody should leave this station having thrown more than about 40 pitches.
+
 ## Habit Scrimmage
 
-**Time:** 49 minutes, run in three segments. Six a side, no outfield.
+**Time:** 38 minutes, run in three segments. Six a side, no outfield.
 
 The point is not to scrimmage and then correct. The rules below make the habits mandatory, so the scrimmage does the coaching and you stay mostly quiet.
 
@@ -625,17 +677,17 @@ The point is not to scrimmage and then correct. The rules below make the habits 
 
 Announce all three before the first pitch and then enforce them without discussion. An automatic strike called once, cheerfully and without a lecture, teaches more than five minutes of explaining.
 
-### Segment 1, 17 minutes: runner at third
+### Segment 1, 14 minutes: runner at third
 
 Every batter comes up with a runner already at third. Nothing else changes.
 
 This is the whole practice in one setup. It forces the passed-ball play, the send decision, and the box routine on nearly every pitch, and it gets your pitchers ten times the cover-home reps they would see in a real inning.
 
-### Segment 2, 16 minutes: normal innings
+### Segment 2, 12 minutes: normal innings
 
 Play it straight with all three rules live. You are checking whether the habits survive when the situation is not handed to them.
 
-### Segment 3, 16 minutes: keep score
+### Segment 3, 12 minutes: keep score
 
 Let them play. Score it, minimal stopping, no coaching except the three rules. If a habit falls apart here, that is your next practice, not a reason to stop this one.
 
@@ -827,6 +879,20 @@ Keep a running score between the two sides and rotate everyone through both. The
 ### If you finish early
 
 Run it again with a runner already at first, so the fielder has to choose between second and first. Do not add anything else.
+
+### 30-minute version
+
+When the station runs 30 minutes instead of 25, insert a force play block in the middle and shorten Beat the Runner.
+
+**0:00-0:07 Ground balls.** As above.
+
+**0:07-0:12 Add the throw.** As above.
+
+**0:12-0:22 Force plays.** Infielders at first, second, short, and third. Put a runner at first. Roll a ground ball and have the fielder call out where the throw is going *before* she throws it.
+
+The whole drill is the call, not the throw. Ask after each rep why that base. Then take the runner off first and roll the same ball, so they feel the difference between a force being on and not.
+
+**0:22-0:30 Beat the Runner.** As above, with the same scoring.
 
 ## Runners vs. Catchers
 
