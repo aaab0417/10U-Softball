@@ -10,6 +10,7 @@
 - [Practice 2: One Practice Before Games](#practice-2-one-practice-before-games)
 - [Practice 3: Defense, Sliding, and Live Stealing](#practice-3-defense-sliding-and-live-stealing)
 - [Practice 4: Situational Softball and Game Simulation](#practice-4-situational-softball-and-game-simulation)
+- [In-Season Practice: Covering Home, Signs, and the Box](#in-season-practice-covering-home-signs-and-the-box)
 - [Activity Instructions](#activity-instructions)
 - [In-Season Practice Progression](#in-season-practice-progression)
 - [Coach Resources](#coach-resources)
@@ -185,6 +186,38 @@ Signs run all practice, not just in the warm-up. Any time a runner is on base, s
 - Ball hit to the outfield with runners advancing
 - Overthrow at first with the defense recovering and stopping play
 - Two outs with a runner on base
+
+## In-Season Practice: Covering Home, Signs, and the Box
+
+Built for 12 players, no outfield, after the first couple of games. Scrimmage is 49 of the 90 minutes.
+
+**The three fixes:**
+
+1. Pitchers are not covering home on a passed ball.
+2. Batters are not looking at the third base coach.
+3. Batters are not stepping out of the box after the pitch, which kills any chance of sending a runner home.
+
+**Fixes 2 and 3 are one habit, not two.** Step out, find the third base coach, step back in. Teach it as a single three-beat routine and both problems go away together. Do not drill them separately.
+
+| Time | Activity | Coaching emphasis |
+| --- | --- | --- |
+| 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) | Glove side leads, step to the target, throw at the chest |
+| 0:08-0:16 | [Batter's Box Routine](#batters-box-routine) | Step out with the back foot, find third, step back in |
+| 0:16-0:31 | [Pitcher Covers Home](#pitcher-covers-home) | Break on the passed ball, catch first, then tag |
+| 0:31-0:35 | Water and split into two sides | Each side needs a pitcher and a catcher |
+| 0:35-1:24 | [Habit Scrimmage](#habit-scrimmage) | Three rules do the coaching, you stay quiet |
+| 1:24-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask what the three beats are and when the pitcher breaks |
+
+### Splitting the sides
+
+Six a side covers P, C, 1B, 2B, SS, and 3B with no outfield, which is what a 10U ball in play actually needs. You have three pitchers and three catchers, but one girl is in both pools, so assign her to one role for the day and build the two sides around the remaining pairs. Sort that before practice, not on the field.
+
+### End-of-practice questions
+
+- What are the three beats after every pitch?
+- Where do you stand when you cover home, and what do you do before you tag?
+- You are on third and the ball gets past the catcher. Who are you looking at?
+- Why does stepping out of the box help your teammate on third?
 
 ---
 
@@ -385,8 +418,9 @@ The Take sign is optional at the first practice. Add it once the two running sig
 
 Tell the girls: look at the coach closest to you.
 
+- **The batter always looks at the third base coach.** Every pitch, no exceptions. See [Batter's Box Routine](#batters-box-routine) for the habit that makes this happen.
 - **Runner at first:** first base coach
-- **Batter, and runners at second or third:** third base coach
+- **Runners at second or third:** third base coach
 
 Never make a runner at first look across the diamond for a sign.
 
@@ -497,6 +531,117 @@ Mix in holds often enough that going is a decision rather than a reflex. If ever
 3. **4 minutes.** Runner at third reads a caught ball or a ball that gets past.
 
 Ask instead of telling. "You are on third, the catcher catches it, what do you do?" beats explaining it again. If they can answer it, they know it.
+
+## Batter's Box Routine
+
+**Time:** 8 minutes to teach, then it is enforced in every scrimmage from now on.
+
+This one routine fixes two problems at once: batters not looking for signs, and batters staying planted in the box so there is never a window to send a runner home.
+
+### The three beats
+
+1. **Pitch ends. Step out with the back foot.** Back foot first, because it turns her body toward third without any extra movement.
+2. **Find the third base coach.** Eyes up, feet still, hands down.
+3. **Take the sign, step back in, set.**
+
+### Say the reason out loud
+
+If you stay in the box, your coach cannot send the runner home from third, and you cannot see the sign. Stepping out is how you help your teammate score.
+
+Framed as compliance, they forget it by the second inning. Framed as helping a teammate, it sticks.
+
+### How to run it
+
+**0:00-0:04 Together.** Whole team lined up at a drawn box, or two lines with two coaches. Clap to signal the pitch is over. Everyone runs the three beats as a group. Twenty reps.
+
+**0:04-0:08 One at a time.** Give a real sign on each rep and have the player call out what it was before she steps back in. This is where you find out who is actually looking versus going through the motions.
+
+### What to watch for
+
+- **Stepping out with the front foot.** It turns her the wrong way and she has to crane her neck.
+- **Eyes down or wandering.** She has to actually find the coach, not just face that direction.
+- **Drifting three steps out.** One step is enough. She has to get back in without stalling the game.
+
+## Pitcher Covers Home
+
+**Time:** 15 minutes.
+
+On a passed ball with a runner at third, the catcher leaves the plate to chase the ball, so home is uncovered and the run scores untouched. The pitcher is the only player who can fix that, and the fix is a habit, not a skill.
+
+### The real problem
+
+The pitcher freezes and watches the ball. That is the whole failure. Drill the break by itself before you add anything else.
+
+### Stage 1, 4 minutes: the break, no ball
+
+Pitcher in the circle. Yell "ball!" She sprints to the plate, sets up in front of it on the third base side facing the catcher, and gives a target with both hands. Ten reps. No ball anywhere.
+
+### Stage 2, 4 minutes: add the catcher
+
+Roll a ball past the catcher toward the backstop. The catcher retrieves it and throws or flips to the pitcher's chest. Pitcher catches. No runner, no tag yet.
+
+### Stage 3, 4 minutes: add a runner at half speed
+
+Full sequence with a tag, but everyone at half speed so the mechanics hold.
+
+### Stage 4, 3 minutes: full speed
+
+### The pitcher's job, in order
+
+1. **Break the instant the ball gets past.** Do not watch it.
+2. **Get in front of the plate, third base side,** facing the catcher.
+3. **Two hands up as a target.**
+4. **Catch the ball. Then tag.** In that order.
+5. **Tag low and in front of the plate,** two hands on the ball.
+
+### The catcher's job
+
+1. Go get it. Do not look at the runner.
+2. Find the ball, get to it, set your feet.
+3. Throw at the pitcher's chest. If it is close, flip it underhand. An off-balance throw here is worse than holding the ball.
+
+### What to watch for
+
+- **The freeze.** By far the most common. If she hesitates even a beat, go back to Stage 1.
+- **Standing on the plate.** That blocks the runner and invites a collision. In front of it, third base side.
+- **Swiping the tag before the catch.** The ball ends up at the backstop a second time and the run scores anyway.
+- **The catcher rushing an off-balance throw.** If she cannot set her feet, she holds it. A held ball costs one run. A throw into the fence costs the inning.
+
+### Who needs reps
+
+Every pitcher, and every catcher on the other side of it. One of your girls is in both pools, so give her reps at both ends or she will only ever have practiced half the play.
+
+## Habit Scrimmage
+
+**Time:** 49 minutes, run in three segments. Six a side, no outfield.
+
+The point is not to scrimmage and then correct. The rules below make the habits mandatory, so the scrimmage does the coaching and you stay mostly quiet.
+
+### The three rules
+
+1. **The batter steps out and looks at third after every pitch.** If she does not, it is an automatic strike.
+2. **The pitcher breaks for home on any ball that gets past the catcher.** If she does not move, the run scores automatically no matter what else happens.
+3. **A runner at third goes home only on the coach's send.** No freelancing, either direction.
+
+Announce all three before the first pitch and then enforce them without discussion. An automatic strike called once, cheerfully and without a lecture, teaches more than five minutes of explaining.
+
+### Segment 1, 17 minutes: runner at third
+
+Every batter comes up with a runner already at third. Nothing else changes.
+
+This is the whole practice in one setup. It forces the passed-ball play, the send decision, and the box routine on nearly every pitch, and it gets your pitchers ten times the cover-home reps they would see in a real inning.
+
+### Segment 2, 16 minutes: normal innings
+
+Play it straight with all three rules live. You are checking whether the habits survive when the situation is not handed to them.
+
+### Segment 3, 16 minutes: keep score
+
+Let them play. Score it, minimal stopping, no coaching except the three rules. If a habit falls apart here, that is your next practice, not a reason to stop this one.
+
+### Your job during this
+
+Track two numbers rather than coaching every play: how many times a pitcher broke for home on her own, and how many automatic strikes you had to call. Both should drop across the three segments. If they do not, say so in the review and run Segment 1 again next week.
 
 ## Where Do I Go?
 
@@ -702,7 +847,7 @@ Use this whenever your pitchers have already thrown, whenever no pitcher is avai
 **What changes:**
 
 - **A coach takes the mound instead of a pitcher.** Full windup and a real release so the runner has something to time, throwing to the catcher in gear. Bucket of balls at your feet.
-- **No signs.** The coach says the runner's name and then "go" or "stay" out loud before the pitch. She still has to wait for the release, which is the part being drilled.
+- **No signs.** The first base coach says the runner's name and then "go" or "stay" out loud before the pitch. She still has to wait for the release, which is the part being drilled.
 - **You script the passed ball.** In Round 2, deliberately let one get past instead of waiting for a pitcher to miss.
 - **Drop the missed-sign scoring rule.** Everything else in the scoring stays.
 
@@ -858,7 +1003,7 @@ After games begin, use each practice to correct issues from the previous game an
 
 | Week | Primary focus | Secondary focus |
 | --- | --- | --- |
-| 1 | Correct first-game baserunning and coverage issues | Rundown fundamentals |
+| 1 | Pitcher covering home, the batter's box routine, and signs | Rundown fundamentals |
 | 2 | Bunting and bunt defense | Corner and catcher responsibilities |
 | 3 | First-and-third situations | Catcher decision-making |
 | 4 | Fly balls, tagging up, and force plays | Infield-fly introduction |
