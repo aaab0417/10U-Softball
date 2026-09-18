@@ -169,7 +169,7 @@ Signs run all practice, not just in the warm-up. Any time a runner is on base, s
 | --- | --- | --- |
 | 0:00-0:10 | [Throwing Warm-Up](#throwing-warm-up) and [Adapted Four-Corner Drill](#adapted-four-corner-drill) | Accurate throws, quick transfers, and one-hop throws when appropriate |
 | 0:10-0:20 | [Rapid Baserunning and Sign Review](#rapid-baserunning-and-sign-review) | Leaving on release, one base per pitch, stopping on the base, and passed-ball reads |
-| 0:20-0:35 | [Defensive Situation Walkthrough](#defensive-situation-walkthrough) | Base coverage, backups, and circle control on every ball |
+| 0:20-0:35 | [Three Jobs](#three-jobs) | Every player has a job every play: ball, bag, or back |
 | 0:35-0:50 | [Pitcher-Catcher with Runners](#pitcher-catcher-with-runners) | Steals, passed balls, covering home, and choosing whether to throw |
 | 0:50-1:20 | [Controlled Game Simulation](#controlled-game-simulation) | Live pitching when practical, and stop only for important corrections |
 | 1:20-1:27 | [Three-Out Inning Challenge](#three-out-inning-challenge) | Track the count, outs, and runners with no coaching |
@@ -189,7 +189,7 @@ Signs run all practice, not just in the warm-up. Any time a runner is on base, s
 
 ## In-Season Practice: Covering Home, Signs, and the Box
 
-Built for 12 players, no outfield, after the first couple of games. A 30-minute pitcher and catcher split, then 38 minutes of scrimmage.
+Built for 12 players, no outfield, after the first couple of games. A 30-minute pitcher and catcher split, then 34 minutes of scrimmage.
 
 **The three fixes:**
 
@@ -197,22 +197,25 @@ Built for 12 players, no outfield, after the first couple of games. A 30-minute 
 2. Batters are not looking at the third base coach.
 3. Batters are not stepping out of the box after the pitch, which kills any chance of sending a runner home.
 
+Plus one thing to add rather than fix: [the prep step](#the-prep-step) on every pitch.
+
 **Fixes 2 and 3 are one habit, not two.** Step out, find the third base coach, step back in. Teach it as a single three-beat routine and both problems go away together. Do not drill them separately.
 
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
-| 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) | Glove side leads, step to the target, throw at the chest |
-| 0:08-0:14 | [Batter's Box Routine](#batters-box-routine) | Step out with the back foot, find third, step back in |
-| 0:14-0:44 | **Split: [In-Season Pitcher and Catcher Station](#in-season-pitcher-and-catcher-station) / [Fielding Station](#fielding-station)** | 30 minutes, two groups, two coaches |
-| 0:44-0:47 | Water and split into two sides | Each side needs a pitcher and a catcher |
-| 0:47-1:25 | [Habit Scrimmage](#habit-scrimmage) | Three rules do the coaching, you stay quiet |
-| 1:25-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask what the three beats are and when the pitcher breaks |
+| 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) into [Adapted Four-Corner Drill](#adapted-four-corner-drill) | Assistant runs it. Call the name, catch first, turn, step, throw |
+| 0:08-0:14 | [The Prep Step](#the-prep-step) | Land with the pitch, on the balls of the feet |
+| 0:14-0:19 | [Batter's Box Routine](#batters-box-routine) | Step out with the back foot, find third, step back in |
+| 0:19-0:49 | **Split: [In-Season Pitcher and Catcher Station](#in-season-pitcher-and-catcher-station) / [Fielding Station](#fielding-station)** | 30 minutes, two groups, two coaches |
+| 0:49-0:52 | Water and split into two sides | Each side needs a pitcher and a catcher |
+| 0:52-1:26 | [Habit Scrimmage](#habit-scrimmage) | Four rules do the coaching, you stay quiet |
+| 1:26-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask what the three beats are and when the pitcher breaks |
 
 ### The cost of the 30-minute split
 
-Scrimmage drops from 49 minutes to 38. That is still the largest block in the practice but it is no longer most of it. Covering home moved into the station, where it belongs, since the only players who need it are already there and the rest of the team was standing around watching it.
+Scrimmage drops from 49 minutes to 34. That is still the largest block in the practice but it is no longer most of it. Covering home moved into the station, where it belongs, since the only players who need it are already there and the rest of the team was standing around watching it.
 
-Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live cover-home reps for the last 38 minutes, so the play gets taught at the station and tested in the scrimmage. That is a better split than the old version, which taught it in front of nine girls who had no part in it.
+Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live cover-home reps for the last 34 minutes, so the play gets taught at the station and tested in the scrimmage. That is a better split than the old version, which taught it in front of nine girls who had no part in it.
 
 ### Splitting the groups
 
@@ -223,6 +226,7 @@ Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live 
 ### End-of-practice questions
 
 - What are the three beats after every pitch?
+- When should your feet land on the prep step?
 - Where do you stand when you cover home, and what do you do before you tag?
 - You are on third and the ball gets past the catcher. Who are you looking at?
 - Why does stepping out of the box help your teammate on third?
@@ -296,6 +300,16 @@ A controlled one-hop throw is appropriate. Teach players to deliver a low, predi
 3. Increase distance only when players maintain good mechanics.
 4. Use relay players between bases when practicing on the full 60-foot field.
 5. Add a second ball only after the team communicates and catches consistently.
+
+### Team-throwing version, for warm-up
+
+When the point is getting the whole team throwing to each other rather than teaching mechanics, run it as a race.
+
+- Two diamonds of cones, two teams, one ball each.
+- First team to complete five clean rotations wins.
+- A drop, an overthrow, or a throw that is not caught sends that team back to zero.
+
+The reset rule is what makes them throw at each other's chests instead of as hard as they can. Announce it before the first throw.
 
 **Video demonstration:** [Four Corners Drill](https://www.championshipproductions.com/news/2015/05/11/train-players-to-quickly-catch-and-throw/)
 
@@ -540,6 +554,59 @@ Mix in holds often enough that going is a decision rather than a reflex. If ever
 
 Ask instead of telling. "You are on third, the catcher catches it, what do you do?" beats explaining it again. If they can answer it, they know it.
 
+## The Prep Step
+
+**Time:** 6 minutes to teach. After that it is never taught again, only scored.
+
+A small hop as the pitch comes in, landing balanced on the balls of the feet right as the ball reaches the plate. Inches off the ground, not a jump.
+
+### Sell it before you teach it
+
+Do not explain it. Show it, and let one of them feel it.
+
+Pick a volunteer. Have her stand flat-footed and completely still. Roll a ball six or eight feet to her side. She will not get there. Now have her hop and land as you release, and roll the identical ball. She gets it.
+
+Do that with two or three girls so the whole team watches it happen instead of hearing about it. You will never have to explain inertia to a nine-year-old again.
+
+### Why it actually matters at this age
+
+Two reasons, and the second one is bigger:
+
+1. A body already moving reacts faster than a body standing still.
+2. **It gives every player something to do on every pitch.** A girl at second with nothing to do for four minutes has checked out and is looking at the sky. A girl who has to hop on every single pitch is watching every single pitch. The prep step is an attention device wearing a movement disguise.
+
+### The cue
+
+**Land with the pitch.** Her feet should hit the ground as the ball reaches the plate, not before.
+
+### Popcorn, 3 minutes
+
+Whole team spread out in the field. You go through a pitching motion at the plate. Everyone hops at the same time.
+
+Ten girls popping at once looks ridiculous, which is exactly why it works, and you can see instantly who did not pop. Call out the kernels that did not pop, keep it light, go again.
+
+### Freeze, 2 minutes
+
+Same setup. At the moment you would make contact, yell "freeze." Everyone holds exactly where they are.
+
+Take two steps and scan. Who is on the balls of her feet, who is a statue standing flat? Point and move on with no lecture. Nobody wants to be the statue, so this one polices itself fast.
+
+### Gotcha
+
+Run this at the [Fielding Station](#fielding-station) rather than here. Go through the motion, everyone hops, then immediately roll a ball at a random girl. If she prepped she gets it, and if she did not she does not. The ball does all the teaching and you say nothing.
+
+### What to watch for
+
+- **Hopping too early,** so she is flat-footed again by contact. By far the most common.
+- **Hopping too high.** Inches. A big jump is slower than no hop at all.
+- **Landing on the heels,** which means she can only move backward.
+- **Feet landing together.** Shoulder width.
+- **Doing it once and forgetting for the rest of the inning.** This is why it becomes a scored rule instead of a coaching point.
+
+### For the pitcher
+
+She preps too, right after release, because she is the closest fielder to the batter and has the least time to react. Mention it at the [station](#in-season-pitcher-and-catcher-station) so it does not get lost.
+
 ## Batter's Box Routine
 
 **Time:** 6 minutes to teach, then it is enforced in every scrimmage from now on.
@@ -625,39 +692,51 @@ Every pitcher, and every catcher on the other side of it. One of your girls is i
 
 **Time:** 30 minutes. **Who:** the head coach, all pitchers, and all catchers, usually five or six bodies once you account for overlap. **Setup:** a pitching lane off to the side with a plate, a backstop or fence, and a bucket of balls. Catchers in full gear.
 
-Twenty of the thirty minutes are pitching. Pitchers throwing to live catchers means both groups work the entire time, so the catchers are not waiting around for their turn.
+Nineteen of the thirty minutes are live pitching, and the catcher throw-downs are folded into those minutes rather than taking their own block. Pitchers throwing to live catchers means both groups work the entire time, so the catchers are not waiting around for their turn.
 
 ### 0:00-0:05 Warm the arms into the distance
 
 Start at 20 feet, ten throws. Move to 28 feet, ten throws. Move to 35. Catchers receive in a normal stance with a chest-high target.
 
-### 0:05-0:11 Strike zone game
+### 0:05-0:08 Catcher footwork to third, dry
+
+Three minutes, no pitcher. Teach the clearing step from [Catcher Throw-Down to Third](#catcher-throw-down-to-third) with no ball, then with a ball and no pitch. Get it into the feet before it has to happen fast.
+
+### 0:08-0:14 Strike zone game, with throw-downs
 
 Sets of ten from 35 feet, rotating pitchers so each one rests while the others throw. The catcher calls strike or ball out loud after each pitch. Count the sets and write down the totals.
 
+**Every fourth pitch or so, call "third."** The catcher pops up and throws down. Put one of the waiting girls on the bag to receive. The pitcher has to work through a throw happening behind her, which is exactly what a game feels like.
+
 Rotating in sets is the arm care. Three pitchers cycling through sets of ten lands each girl around 30 to 40 pitches across the block, which is right for a midweek practice.
 
-### 0:11-0:16 Target work, glove low
+### 0:14-0:19 Target work, glove low
 
-The catcher sets the glove low and inside, then low and outside. The pitcher tries to hit the spot.
+The catcher sets the glove low and inside, then low and outside. The pitcher tries to hit the spot. Keep calling "third" on occasional pitches.
 
 **Low is the entire lesson at this level.** A high pitch either gets hit hard or sails to the backstop, and the backstop version is the passed ball you are trying to eliminate. Do not bother with high targets.
 
 This doubles as catcher work. Receiving low pitches is the exact skill that keeps balls in front of her in a game.
 
-### 0:16-0:20 A batter in the box
+### 0:19-0:22 A batter in the box
 
 Borrow a girl from the fielding group, or stand in yourself. She does not swing. She just stands there.
 
-Pitchers at this age throw fine to an empty plate and come apart the moment there is a body in the box. Four minutes here is worth more than four more minutes of bullpen, because it is the only part of this block that resembles a game.
+Pitchers at this age throw fine to an empty plate and come apart the moment there is a body in the box. Three minutes here is worth more than three more minutes of bullpen, because it is the only part of this block that resembles a game.
 
-### 0:20-0:30 Covering home
+**Keep calling "third" here too.** A body in the box is the whole difficulty of the throw to third, so this is where the clearing step gets real.
 
-Run the four stages in [Pitcher Covers Home](#pitcher-covers-home), compressed: three minutes on the break with no ball, three minutes adding the catcher's retrieve and throw, four minutes with a runner at half and then full speed.
+### 0:22-0:30 Covering home
+
+Run the four stages in [Pitcher Covers Home](#pitcher-covers-home), compressed: three minutes on the break with no ball, two minutes adding the catcher's retrieve and throw, three minutes with a runner at half and then full speed.
 
 **You do not need to borrow a runner.** Only one pitcher and one catcher work at a time, so the girls waiting their turn are your runners. That also gives your catchers a feel for what the runner sees.
 
 **One girl is in both pools.** Give her reps at both ends of this play or she will only ever have practiced half of it.
+
+### One more thing
+
+Pitchers take a prep step too, right after release. She is the closest fielder to the batter and has the least time to react, so slip it into the strike zone game rather than making it a separate drill.
 
 ### Arm care
 
@@ -665,35 +744,42 @@ Stop any girl who is laboring and move her to the covering-home work early. With
 
 ## Habit Scrimmage
 
-**Time:** 38 minutes, run in three segments. Six a side, no outfield.
+**Time:** 34 minutes, run in three segments. Six a side, no outfield.
 
 The point is not to scrimmage and then correct. The rules below make the habits mandatory, so the scrimmage does the coaching and you stay mostly quiet.
 
-### The three rules
+### The four rules
 
 1. **The batter steps out and looks at third after every pitch.** If she does not, it is an automatic strike.
 2. **The pitcher breaks for home on any ball that gets past the catcher.** If she does not move, the run scores automatically no matter what else happens.
 3. **A runner at third goes home only on the coach's send.** No freelancing, either direction.
+4. **Every defender takes a [prep step](#the-prep-step) on every pitch.** This one is a streak, not a penalty. Count out loud every pitch where all six prepped, and any miss puts it back to zero. Tell them the number to beat before you start.
 
-Announce all three before the first pitch and then enforce them without discussion. An automatic strike called once, cheerfully and without a lecture, teaches more than five minutes of explaining.
+Announce all four before the first pitch and then enforce them without discussion. An automatic strike called once, cheerfully and without a lecture, teaches more than five minutes of explaining.
 
-### Segment 1, 14 minutes: runner at third
+Rule 4 is the one that keeps the defense awake through a long inning, so call the streak number out loud between pitches. They will start counting for you.
+
+### Segment 1, 12 minutes: runner at third
 
 Every batter comes up with a runner already at third. Nothing else changes.
 
-This is the whole practice in one setup. It forces the passed-ball play, the send decision, and the box routine on nearly every pitch, and it gets your pitchers ten times the cover-home reps they would see in a real inning.
+This is half the practice in one setup. It forces the passed-ball play, the send decision, and the box routine on nearly every pitch, and it gets your pitchers ten times the cover-home reps they would see in a real inning.
 
-### Segment 2, 12 minutes: normal innings
+### Segment 2, 11 minutes: runner at second
 
-Play it straight with all three rules live. You are checking whether the habits survive when the situation is not handed to them.
+Every batter comes up with a runner already at second, who is trying to steal third.
 
-### Segment 3, 12 minutes: keep score
+Same trick as Segment 1, pointed at a different play. It forces the [catcher throw-down](#catcher-throw-down-to-third), the third baseman covering, and the shortstop backing up, over and over, in the only setting where all three happen together.
+
+Scoring for this segment: a point for the defense on an out, a point for the offense on a safe steal, and a point for the offense if nobody backed up the throw, whatever else happened.
+
+### Segment 3, 11 minutes: keep score
 
 Let them play. Score it, minimal stopping, no coaching except the three rules. If a habit falls apart here, that is your next practice, not a reason to stop this one.
 
 ### Your job during this
 
-Track two numbers rather than coaching every play: how many times a pitcher broke for home on her own, and how many automatic strikes you had to call. Both should drop across the three segments. If they do not, say so in the review and run Segment 1 again next week.
+Track three numbers rather than coaching every play: how many times a pitcher broke for home on her own, how many automatic strikes you had to call, and the best prep-step streak. The first two should drop across the segments and the third should climb. If they do not, say so in the review and run Segment 1 again next week.
 
 ## Where Do I Go?
 
@@ -710,6 +796,8 @@ Full defense in position. No ball at all.
 3. Every player sprints to her job. The fielder goes to where the ball would be, the coverage player goes to the base, the backup player goes behind the throw.
 4. Freeze them. Walk the field and check. Ask two or three players why they are standing where they are.
 5. Reset and call a new situation.
+
+**Faster version:** have them point at their spot instead of running to it, as in [Three Jobs](#three-jobs). You read all ten answers at once without leaving your spot, and you get three times the reps. Use the running version once the pointing is clean.
 
 ### Situations to work through, in this order
 
@@ -882,11 +970,13 @@ Run it again with a runner already at first, so the fielder has to choose betwee
 
 ### 30-minute version
 
-When the station runs 30 minutes instead of 25, insert a force play block in the middle and shorten Beat the Runner.
+When the station runs 30 minutes instead of 25, open with Gotcha, insert a force play block in the middle, and shorten Beat the Runner.
 
-**0:00-0:07 Ground balls.** As above.
+**0:00-0:03 Gotcha.** Everyone spread out. Go through a pitching motion, everyone takes [a prep step](#the-prep-step), then immediately roll a ball at a random girl. Prepped girls get there, flat-footed girls do not. Rotate fast and say nothing. The ball does the teaching.
 
-**0:07-0:12 Add the throw.** As above.
+**0:03-0:07 Ground balls.** As above, shortened.
+
+**0:07-0:12 Add the throw.** As above. Prep step before every roll.
 
 **0:12-0:22 Force plays.** Infielders at first, second, short, and third. Put a runner at first. Roll a ground ball and have the fielder call out where the throw is going *before* she throws it.
 
@@ -941,6 +1031,42 @@ A coach receives the pitch and decides whether to catch it or let it get past. T
 
 Rotate everyone through both sides. Catchers get tired fast in gear, so plan on two or three.
 
+## Catcher Throw-Down to Third
+
+**Time:** folded into the pitching blocks at the station, then tested in Segment 2 of the [Habit Scrimmage](#habit-scrimmage).
+
+### Why third is worth throwing when second is not
+
+Home to second is about 85 feet. Home to third is 60. At 10U that difference is the difference between a throw that almost never works and one that does.
+
+So the guidance splits. **On a steal of second, holding is still the right default.** On a steal of third, take the throw. It is the one throw-down at this level with a real success rate, and it stops a runner from reaching the base where a passed ball scores her.
+
+### The problem: the batter is in the way
+
+A right-handed batter stands directly in the catcher's lane to third, and most of your league is right-handed. Clearing her is the entire skill.
+
+**Step back, not in front.** The catcher drops her right foot back toward the backstop, which opens a lane behind the batter and turns her shoulders toward third in the same motion. Stepping in front is faster and is how catchers at this age get hit by a bat.
+
+### The sequence
+
+1. **Receive the ball.** Catch it first. Everything else is worthless if she does not.
+2. **Right foot back and open,** clearing the batter.
+3. **Shoulders to third.**
+4. **Throw low.**
+
+### Throw low, and mean it
+
+A high throw to third goes into left field and the runner scores instead of standing on the bag. A low throw or even a one-hop can still be caught and applied as a tag. Tell them a throw in the dirt is a good outcome and a throw over the head is the worst one.
+
+### The other two players
+
+- **Third baseman:** get to the bag, stand on the home-plate side of it, give a target with both hands. Catch the ball, then tag. In that order.
+- **Shortstop backs up the throw.** Not optional. If the ball gets past third with nobody behind it, a stolen base turns into a run.
+
+### When not to throw
+
+Same rule as always. If the runner already has the bag, or the catcher cannot set her feet, she holds it and gets it to the circle. A held ball costs a base. A throw into left field costs a run.
+
 ## Circle Race
 
 **Time:** 5 minutes.
@@ -953,33 +1079,61 @@ Rotate everyone through both sides. Catchers get tired fast in gear, so plan on 
 
 **Why it is here:** getting the ball to the circle when there is no play is one of the four Game 1 goals, and it is the thing that stops a runner from circling the bases on one bad throw.
 
-## Defensive Situation Walkthrough
+## Three Jobs
 
-**Time:** 15 minutes. Practice 4. This is [Where Do I Go?](#where-do-i-go) with a ball added.
+**Time:** 15 minutes. This replaces the Defensive Situation Walkthrough, which did not hold up at 10U.
 
-### Setup
+### Why the old version failed
 
-Full defense in position. A coach at the plate with a bat or a ball. Runners as needed.
+One ball and ten girls means two or three players touch it and seven stand and watch. Freezing the field and walking around to check ten positions burns a minute per rep, so fifteen minutes buys about eight reps. And it toured five different situations once each, when a nine-year-old learns a coverage by doing the same one six times in a row.
 
-### How to run it
+### The idea
 
-1. Call the situation.
-2. Hit or roll the ball and let the play happen at about half speed.
-3. Let the play finish. Do not stop it in the middle.
-4. Freeze everyone where they ended up and check positions.
-5. Ask what should have happened before you tell them.
+Every player has exactly one of three jobs on every single play:
 
-### Situations, in this order
+- **Ball.** You go get it.
+- **Bag.** You cover a base.
+- **Back.** You get behind somebody.
 
-- Ground ball to the infield, nobody on
-- Ball to the outfield, nobody on
-- Overthrow at first, defense recovers
-- Runner on first, ground ball
-- Runner on third, passed ball
+There is no fourth option. If she is not going for the ball and not covering a base, she is backing something up. That one sentence eliminates most of the standing around you see in games.
 
-### The thing to reinforce
+### Round 1, 4 minutes: point, do not run
 
-Every rep ends with the ball in the circle. If the play ended and the ball is still in an outfielder's hand, run it again.
+Full defense in position. No ball, no runners. Call a situation, for example "ground ball to short, runner on first."
+
+Instead of running, every player **points** at where she would go and holds it.
+
+You read all ten answers in two seconds without moving. Fix the wrong ones, call the same situation again, point again. That is twenty reps in four minutes instead of six.
+
+### Round 2, 3 minutes: name the job
+
+Same situation. Now each player shouts her job as she points: ball, bag, or back.
+
+Silence is the answer you are listening for. The girl who cannot name a job is the one who stands still in a game.
+
+### Round 3, 5 minutes: run it
+
+Add the ball and let them move, same situation as the first two rounds. Six reps minimum before you change anything.
+
+Run it at full speed. "Half speed" means nothing to a nine-year-old. She either sprints or strolls, and neither one is half speed.
+
+### Round 4, 3 minutes: change one thing
+
+Keep the same batted ball and change only the runner. Ground ball to short with nobody on, then the identical ball with a runner on first. That single change is what teaches the force, and it lands because everything else stayed the same.
+
+### Rules that make it work
+
+- **One situation per block.** Six reps of one thing beats one rep of six things. Pick the situation from whatever actually fell apart in the last game.
+- **Never freeze and walk the field.** The point-check replaces it entirely.
+- **Every player reports a job every rep,** including the right fielder on a ground ball to second. Her job is back.
+
+### Scoring
+
+Same team streak as [Where Do I Go?](#where-do-i-go). All ten correct adds one, any wrong answer resets to zero, try to beat last practice.
+
+### If you have two coaches
+
+Split into two groups and run both at once. Neither group will have a full defense, which is fine. Assign the jobs that exist and ignore the missing positions. At this age more reps beats more realism.
 
 ## Pitcher-Catcher with Runners
 
