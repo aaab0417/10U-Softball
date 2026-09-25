@@ -7,10 +7,11 @@
 - [Most Important Rule Changes](#most-important-rule-changes)
 - [Priorities Before the First Game](#priorities-before-the-first-game)
 - [Equipment and Coaches](#equipment-and-coaches)
-- [Practice 1: Sliding, Stealing, and Signs](#practice-1-sliding-stealing-and-signs) — done
-- [Practice 2: One Practice Before Games](#practice-2-one-practice-before-games) — done
-- [Practice 3: Defense, Sliding, and Live Stealing](#practice-3-defense-sliding-and-live-stealing) — not used, reference only
-- **[Practice 4: Covering Home, Signs, and the Box](#practice-4-covering-home-signs-and-the-box) — current**
+- [Practice 1: Sliding, Stealing, and Signs](#practice-1-sliding-stealing-and-signs) (done)
+- [Practice 2: One Practice Before Games](#practice-2-one-practice-before-games) (done)
+- [Practice 3: Defense, Sliding, and Live Stealing](#practice-3-defense-sliding-and-live-stealing) (not used, reference only)
+- [Practice 4: Covering Home, Signs, and the Box](#practice-4-covering-home-signs-and-the-box) (done)
+- **[Practice 5: Hitting, Leadoffs, and Pop Flies](#practice-5-hitting-leadoffs-and-pop-flies) (current)**
 - [Adding the Next Practice](#adding-the-next-practice)
 - [Activity Instructions](#activity-instructions)
 - [In-Season Practice Progression](#in-season-practice-progression)
@@ -34,8 +35,9 @@ Games have started. The rainout knocked out a preseason practice, so the path th
 | [Practice 1](#practice-1-sliding-stealing-and-signs) | Done. Sliding, stealing, signs |
 | [Practice 2](#practice-2-one-practice-before-games) | Done. The compressed plan run after the rainout |
 | [Practice 3](#practice-3-defense-sliding-and-live-stealing) | **Never used.** The full-schedule preseason version Practice 2 replaced |
-| [Practice 4](#practice-4-covering-home-signs-and-the-box) | **This is the one you are running now.** First in-season practice |
-| Practice 5 and on | Added each week from what you see in games. See [Adding the Next Practice](#adding-the-next-practice) |
+| [Practice 4](#practice-4-covering-home-signs-and-the-box) | Done. First in-season practice |
+| [Practice 5](#practice-5-hitting-leadoffs-and-pop-flies) | **This is the one you are running now** |
+| Practice 6 and on | Added each week from what you see in games. See [Adding the Next Practice](#adding-the-next-practice) |
 
 Practice 3 says "before the first game" because it is a preseason plan this season skipped. Its individual drills are still good and several get reused in-season, but do not run it as a practice plan now.
 
@@ -225,6 +227,68 @@ Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live 
 - Where do you stand when you cover home, and what do you do before you tag?
 - You are on third and the ball gets past the catcher. Who are you looking at?
 - Why does stepping out of the box help your teammate on third?
+
+## Practice 5: Hitting, Leadoffs, and Pop Flies
+
+**Written to run entirely in the outfield.** If the infield dries out, take it, but nothing below needs it. Cones stand in for bases, since every drill here is about reading and reacting rather than covering exact distances.
+
+### The list
+
+1. **Hitting off a live pitcher.** The top priority, and the block that gets the most clock.
+2. **Leadoffs.** They step off and immediately scurry back.
+3. **Pop flies and foul balls.**
+4. **Sliding.** Mat reps only, no re-teaching.
+5. **Bunting.** Low priority. See [Where bunting goes](#where-bunting-goes) below.
+
+| Time | Activity | Coaching emphasis |
+| --- | --- | --- |
+| 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) | Glove side leads, step to the target, throw at the chest |
+| 0:08-0:13 | [500](#500) | Call it before you catch it |
+| 0:13-0:43 | **[Hitting Off Live Pitching](#hitting-off-live-pitching)**, two stations | Swing at strikes, and start when she lets it go |
+| 0:43-0:46 | Water | |
+| 0:46-0:58 | [Hold Your Ground](#hold-your-ground) | Two things send you back. Nothing else does |
+| 0:58-1:13 | [Pop Flies and Foul Balls](#pop-flies-and-foul-balls) | Turn and run, call it loud, never backpedal |
+| 1:13-1:20 | [Sliding Refresher](#sliding-refresher), reps only | Straight to the mats, no teaching |
+| 1:20-1:26 | [Steal the Bacon](#steal-the-bacon) | Finish on a race |
+| 1:26-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask, do not tell |
+
+### Why hitting goes early
+
+It is the priority and it is the longest block, so it runs while attention is highest and before anything can eat the clock. Ten-year-olds fade in the last twenty minutes, which is why the back end is pop flies, sliding, and a race rather than the thing you most need to fix.
+
+**One scheduling note:** your pitchers need warm arms by 0:13. Peel them and the catchers off during [500](#500), pair them up, and walk them out to 35 feet yourself while the assistant runs the game. They will only miss a five-minute game, and it leaves you with live arms the moment hitting starts.
+
+### Running it in the rain
+
+| Problem | Fix |
+| --- | --- |
+| No infield | Cones for bases. Nothing in this practice measures distance. |
+| No backstop for hitting | Catcher in full gear plus one shagger behind her, and a full bucket so nobody waits on a ball. |
+| Where the other group stands | Well behind the hitting station or well off to the side, never anywhere a foul ball travels. Point at the spot, do not describe it. |
+| Wet balls | They get slick and heavy and throws get worse. Rotate dry balls in and do not read anything into the throwing. |
+| Mats on wet grass | They slide. Stake them if you can, and check between rotations. |
+
+Wet grass actually makes sliding safer, so that block improves in the rain.
+
+### A pitch count warning
+
+This practice asks your pitchers for 30 minutes of live hitting with a game in two days. Rotate all three, cap each around 25 pitches in the block, and have coaches throw the rest.
+
+**Coaches pitch underhand from 35 feet.** An overhand coach throw looks nothing like a 10U pitcher, so the timing work you are trying to do is wasted.
+
+### Where bunting goes
+
+There is no room for it in 90 minutes alongside the other four. [Bunting Basics](#bunting-basics) is written up and ready when you want it, and it takes eight minutes off the hitting block.
+
+The honest recommendation is to skip it this week. Hitting off live pitching is your stated top priority, and bunting is a different skill that would take reps away from it. Pick it up next week as the one new thing.
+
+### End-of-practice questions
+
+- Name the two things that send you back to the base.
+- If the catcher catches the ball and just holds it, what do you do?
+- You hit a pop fly over the shortstop's head. What does she do with her feet?
+- If the pitch is over your head, is it a ball or a strike?
+- As a catcher on a foul pop, which way do you turn?
 
 ## Adding the Next Practice
 
@@ -805,6 +869,226 @@ Let them play. Score it, minimal stopping, no coaching except the three rules. I
 ### Your job during this
 
 Track three numbers rather than coaching every play: how many times a pitcher broke for home on her own, how many automatic strikes you had to call, and the best prep-step streak. The first two should drop across the segments and the third should climb. If they do not, say so in the review and run Segment 1 again next week.
+
+## 500
+
+**Time:** 5 minutes. Everyone on their feet, which is why it is here instead of a kneeling game on a wet field.
+
+### Setup
+
+Pitchers and catchers peel off to warm up, so this runs with the remaining seven or so. One thrower, a bucket of balls, and the girls spread in a **wide arc** 30 to 40 feet out. Spread is the safety rule. Do not let them bunch up.
+
+### Scoring
+
+| Result | Points |
+| --- | --- |
+| Caught in the air | 100 |
+| Caught on one hop | 75 |
+| Fielded clean on the ground | 50 |
+| Dropped or booted | Subtract the same amount |
+
+**Play to 300, not 500.** In five minutes with seven girls nobody gets near 500, and a game nobody wins is a game they stop trying at. Winner throws the first ball next practice.
+
+### Two rules to announce before the first throw
+
+1. **Call it or it does not count.** "Ball, ball, ball," out loud, before the catch. A silent catch scores nothing.
+2. **If two girls go for the same ball, neither one scores.** This is the collision rule and it is the reason the game is safe on wet grass. It also teaches the exact thing that fails on pop flies in a game.
+
+### Throw mostly pops
+
+Pop flies are the theme of this practice, so weight it heavily toward air balls and salt in grounders to keep them honest. The minus on a drop is what stops them lunging at balls they cannot reach, which is the other half of the pop fly lesson.
+
+### Let them keep their own score
+
+Do not audit the math. Arguing about whether Cece is at 225 or 250 will eat the whole five minutes. They track their own, they call it out, you keep throwing. Say that out loud at the start and it stops being an issue.
+
+If the arithmetic bogs down anyway, switch to 3, 2, 1 and play to 10.
+
+## Hitting Off Live Pitching
+
+**Time:** 30 minutes, run as two stations of six that swap at the 15-minute mark.
+
+### Why two stations
+
+Twelve girls in one hitting line means about four swings each in 30 minutes. Two stations doubles it, and the second station needs no bat contact at all, so both halves stay busy.
+
+### The actual problem at 10U
+
+It is usually not the swing. Girls who look fine on a tee come apart against live pitching for three reasons:
+
+1. **They do not know what a strike is,** so they swing at everything or nothing.
+2. **Their timing is off** against a slow arcing pitch.
+3. **They bail out,** stepping toward third instead of toward the pitcher.
+
+Station B attacks the first one directly, and it is the biggest single gain available this week.
+
+### Station A: Live at-bats. Head coach.
+
+Real pitcher, catcher in full gear, shagger behind. Three at-bats each, called like a real at-bat with balls and strikes.
+
+**The timing cue: start when she lets it go.** Hands load back and the front heel comes up as the ball leaves her hand, then the swing comes later. Same principle as the prep step, moved to the batter's box: get moving before you have to act.
+
+Against a slow arc the two failures look opposite but come from the same place:
+
+- **Lunging.** The front foot jumps at the pitcher and the head dives forward. She started her swing on the load instead of after it.
+- **Bailing.** The front foot steps toward third and the shoulders open early. This one is fear, not mechanics. Do not call it out in front of the group. Move her a few inches off the plate and let her get comfortable.
+
+**Do not rebuild a swing today.** Fix the stride direction if she is bailing and leave everything else alone. A game is in two days and confidence is worth more than form this week.
+
+### Station B: Take and Call. Assistant coach.
+
+A coach pitches underhand from 35 feet. This station is scriptable and needs no explanation from the head coach.
+
+**0:00-0:05 Take and Call.** The batter stands in with a bat and does not swing at all. As the pitch crosses she calls **"ball"** or **"strike"** out loud. The coach confirms or corrects in one word. No debate.
+
+**0:05-0:15 Swing at Strikes.** Same pitching, now she swings, but only at strikes.
+
+Score it out loud:
+
+- Swing at a strike: 1 point, hit or miss
+- Take a ball: 1 point
+- Swing at a ball: 0, **even if she hits it**
+- Take a strike: 0
+
+That third rule is the whole station. Say it before the first pitch and hold to it, because a girl who hits a pitch over her head will think she did something right.
+
+### What to tell them about the zone
+
+Keep it to two lines. Between the armpits and the knees, and over the plate. If you have to reach for it or duck, it is a ball.
+
+### The connection to the Take sign
+
+This is why the [Take sign](#introducing-signs) exists. A batter who knows the zone turns a wild pitcher into free baserunners. Mention it once here and it will finally make sense to them.
+
+## Hold Your Ground
+
+**Time:** 12 minutes.
+
+The problem is not that they forget to lead off. It is that they step off and immediately scurry back, which gives up the base they are entitled to and kills any chance of sending them on a passed ball.
+
+### The rule, in one sentence
+
+**Two things send you back. Nothing else does.**
+
+1. **The pitcher has the ball in the circle.** Decide right now, back or forward. Do not stand there.
+2. **The catcher throws at you.** Get back.
+
+That is the whole list. What does **not** send you back:
+
+- The catcher catches the ball and holds it
+- The catcher throws to a different base
+- Nothing happening at all
+
+**Say the number.** "Two things" is what they will remember, and it is short enough to yell from the coach's box during a game.
+
+### The part that trips coaches up
+
+Once the pitcher has the ball in the circle, a runner cannot stop and think about it. She has to immediately commit, back or forward. Standing halfway is how a 10U runner gets called out on the look-back rule, and it looks exactly like hesitation, which is what these girls are already doing.
+
+So the teach is not "stay off the base longer." It is **"stay off the base until something happens, then move decisively."**
+
+### How to run it
+
+Cones for a base and a circle, about 35 to 40 feet apart. Runner at the cone. A coach simulates a pitch, and a second coach receives.
+
+The runner leaves on release and takes her few steps off. Then the receiving coach does one of four things, mixed up and unannounced:
+
+| What the coach does | Right answer |
+| --- | --- |
+| Tosses the ball back into the circle | Commit immediately, back or forward |
+| Throws at the base behind her | Get back |
+| Catches it and just holds it | Hold your ground |
+| Lets it get past | Take the next base |
+
+### Scoring
+
+Point for the runner on a correct decision, point for the coach on a wrong one.
+
+**Going back when nothing sent her back is the error you are hunting.** Call it out loud every time so the whole line hears it: "Nothing sent you back. That is a point for me."
+
+Track the score and tell them the number to beat next week.
+
+### What to expect
+
+This takes longer to unlearn than to learn. They have a year of 8U telling them to get back to the base, and one practice will not erase it. Expect it to look better here than it does Sunday, and plan to run this block again.
+
+## Pop Flies and Foul Balls
+
+**Time:** 15 minutes. Run the last block as two groups so the catchers get foul pops.
+
+### The one rule
+
+**Turn and run. Never backpedal.**
+
+Backpedaling is slow, it is how they fall, and it is the reason a catchable ball drops. Every cue in this block comes back to that sentence.
+
+### 0:00-0:04 The drop step, no ball
+
+Players spread out facing you. Point over their heads and say "go." They open the hips, turn, and sprint three steps in that direction, then look up.
+
+Turn first, find the ball second. Ten reps, alternating sides.
+
+The habit to break: freezing, then backpedaling with the eyes locked on the ball.
+
+### 0:04-0:09 Catch the pop
+
+Throw or hit pops. The sequence is get to the spot, stop, then catch.
+
+- Two hands, fingers up, thumbs together, above the eyes.
+- Get there early and stand still. Catching on the run is a last resort.
+- Call it loud and call it early: **"Ball, ball, ball."**
+
+### 0:09-0:13 Call It
+
+**Setup:** two players about 20 feet apart. Throw a pop between them.
+
+**The rule:** one player calls it and the other peels off and says "yours."
+
+**Scoring:** the point only counts if the ball was **called and caught**. Caught in silence is zero. Two girls calling it at once is zero.
+
+Communication is the actual failure on pop flies at this age, not catching, so score the communication.
+
+### 0:13-0:15 Catchers, foul pops
+
+Run this with your three catchers while the assistant keeps Call It going.
+
+**The counterintuitive part, and the whole lesson: turn your back to the field.**
+
+A foul pop off the bat carries back toward the infield. A catcher who faces the field is always reaching backward over her head and will never get there. Turning around means the ball drifts toward her instead of away.
+
+1. Ball goes up. Turn your back to the field.
+2. Find it.
+3. **Then** throw the mask, and throw it well away so you do not trip on it.
+4. Two hands, above the eyes.
+
+Mask off before she finds the ball is the common error, and it puts an object on the ground right where she is about to run.
+
+## Bunting Basics
+
+**Time:** 8 minutes. Not in the Practice 5 plan. Pull it in by taking eight minutes off [Hitting Off Live Pitching](#hitting-off-live-pitching) when you want it.
+
+This is an introduction, not a teach. The goal is that they have held the bat that way once, so it is not brand new when you spend real time on it.
+
+### The grip and the stance
+
+1. Square up early. Turn the feet and the hips to face the pitcher as she starts her motion.
+2. Top hand slides up to the label. **Pinch behind the bat, fingers curled, never wrapped around the front.** Broken fingers come from wrapping.
+3. Bottom hand stays at the knob and does nothing.
+4. Bat out in front of the plate, at the top of the zone, angled slightly down.
+5. Catch the ball with the bat. Do not swing at it.
+
+### The one cue that matters
+
+**Bunt down, not out.** A bunt popped in the air at 10U is an easy out and sometimes a double play. If the bat is above the ball, the ball goes down.
+
+### The one rule that matters
+
+**Only bunt strikes.** Same discipline as the hitting station. A bunt attempt at a ball over her head is a strike she handed away.
+
+### How to run 8 minutes
+
+- **3 minutes, no ball.** Everyone squares up on your call and holds the position. Walk the line and fix the top hand.
+- **5 minutes, soft toss underhand from 20 feet.** Just contact and direction. Do not chart anything and do not add bunt defense.
 
 ## Where Do I Go?
 
