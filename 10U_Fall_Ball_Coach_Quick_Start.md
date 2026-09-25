@@ -249,7 +249,7 @@ Rule 2 of the [Habit Scrimmage](#habit-scrimmage) still gets your pitchers live 
 | 0:46-0:58 | [Hold Your Ground](#hold-your-ground) | Two things send you back. Nothing else does |
 | 0:58-1:13 | [Pop Flies and Foul Balls](#pop-flies-and-foul-balls) | Turn and run, call it loud, never backpedal |
 | 1:13-1:20 | [Sliding Refresher](#sliding-refresher), reps only | Straight to the mats, no teaching |
-| 1:20-1:26 | [Steal the Bacon](#steal-the-bacon) | Finish on a race |
+| 1:20-1:26 | [Hot Potato](#hot-potato) | Quick hands, underhand only |
 | 1:26-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask, do not tell |
 
 ### Why hitting goes early
@@ -1375,6 +1375,34 @@ A high throw to third goes into left field and the runner scores instead of stan
 ### When not to throw
 
 Same rule as always. If the runner already has the bag, or the catcher cannot set her feet, she holds it and gets it to the circle. A held ball costs a base. A throw into left field costs a run.
+
+## Hot Potato
+
+**Time:** 6 minutes. **Setup:** whole team in a circle about 10 feet across, one ball.
+
+### How it runs
+
+The ball moves as fast as they can move it. You stand outside the circle with your back turned and yell **"stop"** at a random moment.
+
+Whoever is holding the ball takes a letter. **Drop it and you take a letter too,** which matters on a wet ball. Spell S-O-F-T and you are out.
+
+Girls who go out step outside the circle and become callers, so nobody stands around watching. Last one in wins.
+
+### Three rounds to fill the six minutes
+
+1. **2 minutes, one ball.** Any direction.
+2. **2 minutes, two balls.** Two girls can get caught at once and it gets loud.
+3. **2 minutes, tighter circle.** Same speed, less reaction time.
+
+### Rules
+
+- **Underhand only, chest high.** Arms are tired by 1:20 and there is a game in two days. No rockets.
+- **You cannot hold it.** Catching it and pausing to look around counts as holding when the call comes.
+- **No throwing back to whoever just threw to you.** Otherwise two girls ping-pong it and the rest of the circle never touches the ball.
+
+### Why it closes the practice
+
+It is the only block all day that asks nothing of them tactically. After 30 minutes of hitting and a long leadoff block, end on something that is purely fun and gets everybody laughing before the review.
 
 ## Steal the Bacon
 
