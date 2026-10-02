@@ -11,7 +11,8 @@
 - [Practice 2: One Practice Before Games](#practice-2-one-practice-before-games) (done)
 - [Practice 3: Defense, Sliding, and Live Stealing](#practice-3-defense-sliding-and-live-stealing) (not used, reference only)
 - [Practice 4: Covering Home, Signs, and the Box](#practice-4-covering-home-signs-and-the-box) (done)
-- **[Practice 5: Hitting, Leadoffs, and Pop Flies](#practice-5-hitting-leadoffs-and-pop-flies) (current)**
+- [Practice 5: Hitting, Leadoffs, and Pop Flies](#practice-5-hitting-leadoffs-and-pop-flies) (done)
+- **[Practice 6: Stealing Home and Covering the Plate](#practice-6-stealing-home-and-covering-the-plate) (current)**
 - [Adding the Next Practice](#adding-the-next-practice)
 - [Activity Instructions](#activity-instructions)
 - [In-Season Practice Progression](#in-season-practice-progression)
@@ -36,8 +37,9 @@ Games have started. The rainout knocked out a preseason practice, so the path th
 | [Practice 2](#practice-2-one-practice-before-games) | Done. The compressed plan run after the rainout |
 | [Practice 3](#practice-3-defense-sliding-and-live-stealing) | **Never used.** The full-schedule preseason version Practice 2 replaced |
 | [Practice 4](#practice-4-covering-home-signs-and-the-box) | Done. First in-season practice |
-| [Practice 5](#practice-5-hitting-leadoffs-and-pop-flies) | **This is the one you are running now** |
-| Practice 6 and on | Added each week from what you see in games. See [Adding the Next Practice](#adding-the-next-practice) |
+| [Practice 5](#practice-5-hitting-leadoffs-and-pop-flies) | Done |
+| [Practice 6](#practice-6-stealing-home-and-covering-the-plate) | **This is the one you are running now** |
+| Practice 7 and on | Added each week from what you see in games. See [Adding the Next Practice](#adding-the-next-practice) |
 
 Practice 3 says "before the first game" because it is a preseason plan this season skipped. Its individual drills are still good and several get reused in-season, but do not run it as a practice plan now.
 
@@ -289,6 +291,62 @@ The honest recommendation is to skip it this week. Hitting off live pitching is 
 - You hit a pop fly over the shortstop's head. What does she do with her feet?
 - If the pitch is over your head, is it a ball or a strike?
 - As a catcher on a foul pop, which way do you turn?
+
+## Practice 6: Stealing Home and Covering the Plate
+
+The whole practice is one play, worked from both sides: a passed ball with a runner at third.
+
+### One trigger, three jobs
+
+Everything today hangs on a single thing everybody watches: **does the catcher have to turn her back?**
+
+| Player | Catcher turns her back | Ball stays in front of her |
+| --- | --- | --- |
+| **Runner at third** | Go | Stay |
+| **Pitcher** | Break and call **"ME"** | Break and call **"YOU"** |
+| **Catcher** | Chase it, listen for the call | Bare hand it, step on the plate, tag |
+
+Teaching one trigger instead of three separate lessons is the point. All twelve girls are reading the same thing, so every rep teaches everybody something whether they are running or defending.
+
+| Time | Activity | Coaching emphasis |
+| --- | --- | --- |
+| 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) | Glove side leads, step to the target, throw at the chest |
+| 0:08-0:14 | [Beat the Ball](#beat-the-ball) | Clean throws beat a fast runner, nothing else does |
+| 0:14-0:20 | [Me or You](#me-or-you) | The trigger, taught dry, whole team |
+| 0:20-0:42 | **Split: [Passed Ball Battery Station](#passed-ball-battery-station) / [Go on the Turn](#go-on-the-turn)** | 22 minutes, two groups, two coaches |
+| 0:42-0:45 | Water and bring both groups in | |
+| 0:45-1:10 | [Steal Home](#steal-home) | The full play, scored, both sides |
+| 1:10-1:25 | [Runner at Third Scrimmage](#runner-at-third-scrimmage) | Same play with a batter in the box |
+| 1:25-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask, do not tell |
+
+### Why the split comes first
+
+The exchange between catcher and pitcher is a mechanics problem, and runners make them rush before the mechanics exist. Twenty-two minutes with no runners buys roughly four times the reps, and then [Steal Home](#steal-home) is where it gets tested under pressure.
+
+Meanwhile the other seven girls work the read with your assistant, which needs no catcher and no pitcher at all.
+
+### Set expectations before you judge this on Sunday
+
+**You will not get many outs on this play.** A ball that reaches the backstop scores the runner from third almost every time, whatever your catcher does, and that is true at every level.
+
+What you are actually buying:
+
+1. Runs saved on balls that only went a few feet, which is a real share of them.
+2. The batter-runner not taking an extra base while everyone watches the ball.
+3. A pitcher who breaks every time, which costs nothing and occasionally saves a run.
+
+If you measure Sunday by outs at the plate you will think this practice failed. Count whether the pitcher broke instead.
+
+### The rule worth knowing
+
+A pitcher or catcher standing **on** the plate without the ball is obstruction, and the umpire awards the runner home. Setting up in front of the plate on the third base side fixes the obstruction and the collision risk in one go, which is why that detail keeps repeating.
+
+### End-of-practice questions
+
+- What is the one thing you are watching the catcher do?
+- You are the pitcher and the catcher is chasing the ball to the backstop. What word do you say?
+- You are the catcher and you hear "YOU." What do you do?
+- You are halfway home and you see the catcher pick it up. Do you stop?
 
 ## Adding the Next Practice
 
@@ -727,6 +785,223 @@ Do not spend longer than six minutes on this. It is a habit, not a skill, and it
 - **Stepping out with the front foot.** It turns her the wrong way and she has to crane her neck.
 - **Eyes down or wandering.** She has to actually find the coach, not just face that direction.
 - **Drifting three steps out.** One step is enough. She has to get back in without stalling the game.
+
+## Me or You
+
+**Time:** 6 minutes, whole team, no equipment but one ball in your hand.
+
+### The problem this solves
+
+A catcher chasing a passed ball is facing the backstop. She cannot see the runner, she cannot see the pitcher, and she has about a second. She is the worst-placed player on the field to decide what to do with the ball, and she is the one usually asked to decide.
+
+**So the pitcher decides.** The pitcher can see the runner, the ball and the plate all at once, and she is not the one bent over picking something up.
+
+### The two words
+
+- **"ME"** means flip it to me, I am covering the plate.
+- **"YOU"** means you have it, pick it up and tag her yourself.
+
+Loud, early, and before the catcher picks up the ball.
+
+### How the pitcher picks
+
+Same trigger everybody else is watching. **Did the catcher have to turn her back?**
+
+- Turned her back and chased: **"ME"**
+- Ball stayed in front of her: **"YOU"**
+
+She does not judge speed, distance or angles. She watches one thing and says one word.
+
+### The rule that makes it work
+
+**Say a word every single time, including on balls that were caught cleanly.** Silence means the catcher guesses, and a guessing catcher throws a ball nobody is expecting. A pitcher who only talks on the hard ones has told the other team which ones are hard.
+
+### How to run 6 minutes
+
+**0:00-0:02 Whole team.** You hold a ball and act out the catcher. Drop it in front of your feet, or turn your back and fling it over your shoulder. The whole team calls **"stay"** or **"go."** Twenty reps, fast.
+
+**0:02-0:04 Pitchers and catchers.** Same thing, but they call **"ME"** or **"YOU."**
+
+**0:04-0:06 Mixed.** Everybody calls their own word on the same rep. Runners yell go or stay, pitchers yell me or you, all at once. It is loud and chaotic and that is what a real one sounds like.
+
+### What to watch for
+
+Girls calling it after they see where the ball ends up. The call happens on the turn, not on the outcome. Fling one two feet and one twenty feet and show them the answer is the same on both.
+
+## Passed Ball Battery Station
+
+**Time:** 22 minutes. **Who:** head coach, all pitchers and catchers, about five bodies. **Setup:** a plate, a backstop or fence, a bucket of balls, catchers in full gear.
+
+**No runners at this station.** Runners make them rush before the mechanics exist, and leaving them out buys roughly four times the reps.
+
+### 0:00-0:05 Short ball: "YOU"
+
+Roll a ball three to six feet in front of the plate. The catcher never turns her back.
+
+- **The pitcher still breaks, every time.** She is not getting the ball, she is the backup if the catcher kicks it. This is the rep that has to become automatic.
+- Pitcher calls **"YOU"** on the way.
+- Catcher comes out, picks it up **bare handed**, steps back to the plate and tags a glove on the ground.
+
+**Bare hand on a stopped ball.** Reaching down with the mitt on a dead ball costs half a second and half a second is the whole play.
+
+### 0:05-0:12 Long ball: "ME"
+
+Throw it past her to the backstop. She turns and chases.
+
+- Pitcher breaks, sets up **in front of the plate, third base side**, two hands up.
+- **She yells "ME, ME, ME" the whole way and keeps yelling.** The catcher is facing a fence. If she has to turn around and find the pitcher with her eyes before throwing, the run already scored. She should be able to locate the pitcher by sound alone.
+- Catcher gets to the ball, sets her feet, delivers it chest high.
+
+**Underhand flip inside about 15 feet. Short overhand beyond that.** Never a hard throw from close range, and never a glove flip.
+
+### 0:12-0:17 Mixed and unannounced
+
+You vary short and long with no warning. Now the pitcher has to actually make the call and the catcher has to actually listen.
+
+Count clean exchanges out of ten and tell them the number.
+
+### 0:17-0:22 Add a batter in the box
+
+Put one of your catchers in a helmet standing in the right-handed box. She does not swing, she just stands there.
+
+This is the part every version of this drill leaves out and every real game includes. A right-handed batter is standing exactly where the catcher wants to go, and so is the umpire. Let the catcher figure out the path around her now rather than Sunday.
+
+### Arm care
+
+Nobody pitches at this station. The pitchers are only breaking and catching, so this costs no arm with a game on the weekend.
+
+## Go on the Turn
+
+**Time:** 22 minutes. **Who:** assistant coach and the other seven. **Setup:** a cone for third, a cone for home about 60 feet away, a bucket of balls.
+
+No catcher, no pitcher, no gear. Written to be handed to another adult.
+
+### The cue
+
+**If she turns her back, you go. If the ball stays in front of her, you stay.**
+
+That is the whole read. Not whether she dropped it, not how far it rolled. One thing.
+
+### The trick that makes a line drill work
+
+**Every runner in the line calls "GO" or "STAY" out loud on every single rep,** even though only the front girl runs.
+
+Eight girls make the decision, one executes it. Without this rule you are running a drill where seven kids stand and watch.
+
+### 0:00-0:05 Call only, nobody runs
+
+The coach stands at the home cone facing the line, holding a ball. She either drops it at her feet or turns her back and flings it behind her. The whole line calls it.
+
+Fling some two feet and some twenty. The answer is the same, and they need to see that.
+
+### 0:05-0:13 Front girl runs
+
+Same thing, and the front girl goes on a "go." Full sprint through the plate, no sliding on this one. She rotates to the back, next girl up.
+
+### 0:13-0:22 Past the cone you are gone
+
+Put a cone halfway between third and home.
+
+**Once she passes that cone she is going, no matter what she sees.** The coach picks the ball up quickly on some reps specifically to tempt her into stopping.
+
+The most common failure after a good read is slowing down at 30 feet to check on the ball. A runner who hesitates there is out, and a runner who turns around is out by more. This block exists because your team's instinct is to hesitate.
+
+### Scoring
+
+Point for a correct call, point against on a wrong one. Track the line's total and tell them the number to beat next week.
+
+A good read followed by a slow-down scores nothing.
+
+## Steal Home
+
+**Time:** 25 minutes. The full play, both sides, scored. This is the centerpiece of Practice 6.
+
+### Stage 1, 0:00-0:10: scripted, no pitching
+
+**A coach stands just outside the circle and throws the ball to or past the catcher.** The pitcher stands in the circle doing nothing but covering.
+
+Two reasons this is better than going live first:
+
+1. You control the read exactly, so you can run ten passed balls in a row instead of waiting for one.
+2. Nobody throws a pitch, so this costs no arms with a game on the weekend.
+
+Runners line up at third. Catcher in full gear. Everyone else rotates in at the plate area and backs up.
+
+### Stage 2, 0:10-0:25: live
+
+Real pitcher from 35 feet, real catcher, real passed balls at whatever rate they happen. When you go four pitches without one, step in and throw one past yourself to force the rep.
+
+### Scoring, called out loud
+
+**Offense:**
+
+| Result | Points |
+| --- | --- |
+| Runner safe | 1 offense |
+| Runner out | 1 defense |
+| Went on a ball that stayed in front of the catcher | 1 defense, bad read |
+| Held on a ball that got behind her | 1 defense, missed it |
+| Slowed down or looked back after passing the halfway cone | No point even if she scores |
+
+**Defense:**
+
+| Result | Points |
+| --- | --- |
+| Pitcher does not break | Run scores automatically, 1 offense, whatever else happens |
+| Pitcher says nothing | No point for the defense even on an out |
+| Catcher throws it after hearing "YOU," or runs it in after hearing "ME" | No point for the defense |
+
+Those last three are strict and they are the entire lesson. An out recorded by a silent pitcher and a guessing catcher is luck, and scoring it as a win teaches them to keep guessing.
+
+### Safety
+
+- Pitcher sets up **in front of** the plate, third base side, leaving the runner a lane to the plate. On the plate is both a collision and an obstruction call.
+- Tag low with two hands on the ball. No swiping at a face.
+- Run through the plate. Do not introduce a slide into this drill.
+
+## Runner at Third Scrimmage
+
+**Time:** 15 minutes. Live pitching, batter swinging, every batter comes up with a runner already at third.
+
+Same trick as Practice 4's opening segment, aimed at a different play. It forces the passed ball, the read, the pitcher's break and the exchange on nearly every pitch instead of once an inning.
+
+### The new variable
+
+**There is a batter in the box now, and she might put the ball in play.** Everything the defense practiced today assumed the ball was behind the catcher and nothing else was happening. Here it might be a ground ball, a pop-up, or a passed ball, and they have to sort out which one before they do anything.
+
+### Rules that carry over
+
+1. **The pitcher breaks on any ball that gets behind the catcher,** and says her word. No break means the run scores automatically.
+2. **The runner at third goes on the turn,** and does not stop once she passes the halfway point.
+3. **The batter still steps out and looks at third after every pitch.** Automatic strike if she does not. That habit is from Practice 4 and it keeps mattering.
+
+### Your job
+
+Say almost nothing. Count two things: how many times the pitcher broke without being told, and how many times you heard a word out of her. Report both numbers in the review.
+
+## Beat the Ball
+
+**Time:** 6 minutes. A race between one runner and the whole defense.
+
+### Setup
+
+A player at each base, a catcher at home, one runner at home in a helmet, everybody else lined up to run.
+
+### How it runs
+
+On "go" the runner sprints all four bases. At the same time the catcher throws around the horn: **catcher to first to second to third to home.** Whoever gets to home plate first wins.
+
+Every throw has to be caught before the next one. No skipping a base. A dropped ball means that fielder picks it up and keeps going, which is exactly where the runner wins.
+
+### Scoring
+
+Run a tally, runners versus defense. Rotate so the runner goes to a base and a base player joins the running line.
+
+### Why it works
+
+The defense always thinks it will win and it usually does not. Four clean throws beat a fast ten-year-old and three clean throws plus one bobble do not, and they discover that themselves in about two rounds. Nothing you say about throwing accuracy lands as hard.
+
+It also fits today: the catcher's flip to a covering pitcher is an accuracy play under time pressure, and so is every throw in this game.
 
 ## Pitcher Covers Home
 
