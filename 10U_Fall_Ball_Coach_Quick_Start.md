@@ -311,19 +311,29 @@ Teaching one trigger instead of three separate lessons is the point. All twelve 
 | Time | Activity | Coaching emphasis |
 | --- | --- | --- |
 | 0:00-0:08 | [Throwing Warm-Up](#throwing-warm-up) | Glove side leads, step to the target, throw at the chest |
-| 0:08-0:14 | [Beat the Ball](#beat-the-ball) | Clean throws beat a fast runner, nothing else does |
-| 0:14-0:20 | [Me or You](#me-or-you) | The trigger, taught dry, whole team |
-| 0:20-0:42 | **Split: [Passed Ball Battery Station](#passed-ball-battery-station) / [Go on the Turn](#go-on-the-turn)** | 22 minutes, two groups, two coaches |
-| 0:42-0:45 | Water and bring both groups in | |
-| 0:45-1:10 | [Steal Home](#steal-home) | The full play, scored, both sides |
-| 1:10-1:25 | [Runner at Third Scrimmage](#runner-at-third-scrimmage) | Same play with a batter in the box |
-| 1:25-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask, do not tell |
+| 0:08-0:14 | [Me or You](#me-or-you) | The trigger, taught dry, whole team |
+| 0:14-0:34 | **Split: [Passed Ball Battery Station](#passed-ball-battery-station) / [Go on the Turn](#go-on-the-turn)** | 20 minutes, two groups, two coaches |
+| 0:34-0:37 | Water and bring both groups in | |
+| 0:37-0:57 | [Steal Home](#steal-home) | The full play, scored, both sides |
+| 0:57-1:05 | [Cheers](#cheers) | Learn three, pick the dugout leaders |
+| 1:05-1:27 | [Full Scrimmage](#full-scrimmage) | Real innings, three rules live, dugout cheering |
+| 1:27-1:30 | [End-of-Practice Review](#end-of-practice-review) | Ask, do not tell |
 
 ### Why the split comes first
 
-The exchange between catcher and pitcher is a mechanics problem, and runners make them rush before the mechanics exist. Twenty-two minutes with no runners buys roughly four times the reps, and then [Steal Home](#steal-home) is where it gets tested under pressure.
+The exchange between catcher and pitcher is a mechanics problem, and runners make them rush before the mechanics exist. Twenty minutes with no runners buys roughly four times the reps, and then [Steal Home](#steal-home) is where it gets tested under pressure.
 
 Meanwhile the other seven girls work the read with your assistant, which needs no catcher and no pitcher at all.
+
+### What a full scrimmage costs you
+
+Going to real innings at the end means today's play comes up maybe twice instead of every pitch. That is a fair trade for game reps, and the three carryover rules keep it live whenever it does happen.
+
+If you want more, start an inning or two with a runner already on third. Two innings of that gets you most of the forced reps without turning it back into a drill.
+
+### Why cheers go right before the scrimmage
+
+They learn them standing still, then use them for 22 minutes with a real dugout. A cheer taught at the end of practice and never used is a cheer nobody remembers by Sunday.
 
 ### Set expectations before you judge this on Sunday
 
@@ -830,7 +840,7 @@ Girls calling it after they see where the ball ends up. The call happens on the 
 
 ## Passed Ball Battery Station
 
-**Time:** 22 minutes. **Who:** head coach, all pitchers and catchers, about five bodies. **Setup:** a plate, a backstop or fence, a bucket of balls, catchers in full gear.
+**Time:** 20 minutes. **Who:** head coach, all pitchers and catchers, about five bodies. **Setup:** a plate, a backstop or fence, a bucket of balls, catchers in full gear.
 
 **No runners at this station.** Runners make them rush before the mechanics exist, and leaving them out buys roughly four times the reps.
 
@@ -854,13 +864,13 @@ Throw it past her to the backstop. She turns and chases.
 
 **Underhand flip inside about 15 feet. Short overhand beyond that.** Never a hard throw from close range, and never a glove flip.
 
-### 0:12-0:17 Mixed and unannounced
+### 0:12-0:16 Mixed and unannounced
 
 You vary short and long with no warning. Now the pitcher has to actually make the call and the catcher has to actually listen.
 
 Count clean exchanges out of ten and tell them the number.
 
-### 0:17-0:22 Add a batter in the box
+### 0:16-0:20 Add a batter in the box
 
 Put one of your catchers in a helmet standing in the right-handed box. She does not swing, she just stands there.
 
@@ -872,7 +882,7 @@ Nobody pitches at this station. The pitchers are only breaking and catching, so 
 
 ## Go on the Turn
 
-**Time:** 22 minutes. **Who:** assistant coach and the other seven. **Setup:** a cone for third, a cone for home about 60 feet away, a bucket of balls.
+**Time:** 20 minutes. **Who:** assistant coach and the other seven. **Setup:** a cone for third, a cone for home about 60 feet away, a bucket of balls.
 
 No catcher, no pitcher, no gear. Written to be handed to another adult.
 
@@ -898,7 +908,7 @@ Fling some two feet and some twenty. The answer is the same, and they need to se
 
 Same thing, and the front girl goes on a "go." Full sprint through the plate, no sliding on this one. She rotates to the back, next girl up.
 
-### 0:13-0:22 Past the cone you are gone
+### 0:13-0:20 Past the cone you are gone
 
 Put a cone halfway between third and home.
 
@@ -914,9 +924,9 @@ A good read followed by a slow-down scores nothing.
 
 ## Steal Home
 
-**Time:** 25 minutes. The full play, both sides, scored. This is the centerpiece of Practice 6.
+**Time:** 20 minutes. The full play, both sides, scored. This is the centerpiece of Practice 6.
 
-### Stage 1, 0:00-0:10: scripted, no pitching
+### Stage 1, 0:00-0:08: scripted, no pitching
 
 **A coach stands just outside the circle and throws the ball to or past the catcher.** The pitcher stands in the circle doing nothing but covering.
 
@@ -927,7 +937,7 @@ Two reasons this is better than going live first:
 
 Runners line up at third. Catcher in full gear. Everyone else rotates in at the plate area and backs up.
 
-### Stage 2, 0:10-0:25: live
+### Stage 2, 0:08-0:20: live
 
 Real pitcher from 35 feet, real catcher, real passed balls at whatever rate they happen. When you go four pitches without one, step in and throw one past yourself to force the rep.
 
@@ -959,25 +969,93 @@ Those last three are strict and they are the entire lesson. An out recorded by a
 - Tag low with two hands on the ball. No swiping at a face.
 - Run through the plate. Do not introduce a slide into this drill.
 
-## Runner at Third Scrimmage
+## Cheers
 
-**Time:** 15 minutes. Live pitching, batter swinging, every batter comes up with a runner already at third.
+**Time:** 8 minutes, and then they use them for the rest of practice.
 
-Same trick as Practice 4's opening segment, aimed at a different play. It forces the passed ball, the read, the pitcher's break and the exchange on nearly every pitch instead of once an inning.
+### What actually matters, more than the words
 
-### The new variable
+1. **Name two or three dugout leaders per game.** Without one, everybody waits for somebody else to start and nothing happens. Rotate who gets it so it is not always the loudest girl.
+2. **Everyone on the fence, nobody on the bench.** A cheer with half the dugout sitting down dies in four seconds.
+3. **Cheers are about our team, never the other team.** Nothing about their pitcher, no counting her balls out loud, nothing a parent in the other bleachers could hear as taunting. Say this once, clearly, and hold the line on it.
+4. **Between pitches, not during one.** Partly sportsmanship, mostly because your own batter is trying to see the ball.
 
-**There is a batter in the box now, and she might put the ball in play.** Everything the defense practiced today assumed the ball was behind the catcher and nothing else was happening. Here it might be a ground ball, a pop-up, or a passed ball, and they have to sort out which one before they do anything.
+### Three to learn today
 
-### Rules that carry over
+Three is the right number. Six gets you none.
 
-1. **The pitcher breaks on any ball that gets behind the catcher,** and says her word. No break means the run scores automatically.
+**1. The Howl.** Your team signature, and the one they will care about most.
+
+> Leader: **"Wolf pack!"**
+> Team: **"Owooooo!"**
+
+Save it for strikeouts and big defensive plays only. A howl after every single out stops meaning anything by the third inning. Rarity is what makes it theirs.
+
+**2. Batter up.** Call and response, works with any name, no rhyme to get wrong.
+
+> Leader: **"Who's up?"**
+> Team: **"[NAME]'s up!"**
+> Leader: **"What's she gonna do?"**
+> Team: **"Hit it through!"**
+
+**3. Rally.** For when they need runs.
+
+> **"We want a hit!"** (clap clap)
+> **"H-I-T!"** (clap clap)
+> **"We want a hit!"**
+
+### If you want a fourth, make it a defense cheer
+
+> **"[Pitcher's name] in the circle, shut it down!"**
+
+Only add this one once the first three are automatic.
+
+### How to run 8 minutes
+
+- **0:00-0:02.** Teach the Howl. They will have it immediately. Set the rule about when it is used, which is the part that takes the explaining.
+- **0:02-0:05.** Batter up, with you as leader. Run it with four or five real names so they hear it work with different syllables.
+- **0:05-0:07.** Rally cheer. Get the claps together.
+- **0:07-0:08.** Name the dugout leaders for the scrimmage and tell them it is their job to start one.
+
+### Then use them
+
+The dugout half of the [Full Scrimmage](#full-scrimmage) has nothing else to do for 22 minutes. Cheering is the job. If the dugout goes quiet, stop the scrimmage and point at it once. You will only have to do that once.
+
+## Full Scrimmage
+
+**Time:** 22 minutes. Real innings, six a side, live pitching.
+
+After six practices of drills and scored games, this is the block where they find out whether any of it comes out on its own.
+
+### Three rules stay live
+
+1. **The pitcher breaks on any ball that gets behind the catcher, and says her word.** No break means the run scores automatically, whatever else happened.
 2. **The runner at third goes on the turn,** and does not stop once she passes the halfway point.
-3. **The batter still steps out and looks at third after every pitch.** Automatic strike if she does not. That habit is from Practice 4 and it keeps mattering.
+3. **The batter steps out and looks at third after every pitch.** Automatic strike if she does not.
+
+Announce all three before the first pitch and enforce them without discussion. Everything else is just softball.
+
+### The dugout has a job
+
+The team on offense cheers. Dugout leaders start them, everyone on the fence. See [Cheers](#cheers).
+
+This is not filler. Twenty-two minutes of sitting is where a 10U team checks out, and a dugout with a job is a dugout still watching the game.
 
 ### Your job
 
-Say almost nothing. Count two things: how many times the pitcher broke without being told, and how many times you heard a word out of her. Report both numbers in the review.
+Say almost nothing and let plays finish. Stop no more than three times in the whole block, and only for something you expect to see again Sunday.
+
+Track three numbers instead of coaching:
+
+- How many times the pitcher broke without being told
+- How many times you heard a word out of her
+- How many automatic strikes you had to call
+
+Report all three in the review. They should be better than the numbers from Practice 4.
+
+### If you want more reps on today's play
+
+Start an inning or two with a runner already on third. Two innings of that gets you most of the forced reps and still feels like a game to them.
 
 ## Beat the Ball
 
